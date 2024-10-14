@@ -266,7 +266,7 @@ Focusing on community engagement through comments reinforces social interactions
 
 ## User Stories
 
--** Upload a Video**
+- ** Upload a Video**
 - **Description:** A user will be able to post videos of their clothing.
 - **Estimate:** 8 days
 - **Priority:** 10
