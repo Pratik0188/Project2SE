@@ -83,7 +83,7 @@ The unforeseen increase in time for this story required us to dedicate the entir
 
 **Change Event:** The departure of a developer reduced our team capacity.
 
-- **Developers:** 1  
+**Developers:** 1  
 
 **Adjusted Capacity:**
 - **Total Capacity:** 10 days × 0.6 = 6 days  
@@ -150,6 +150,8 @@ We concentrated on the "View a Closet" user story, enhancing the social aspect o
 ## Iteration 7: Expanding User Functionality
 **Change Event:** We re-evaluated and added new user stories based on user feedback.
 
+**Developers:** 1  
+
 **Selected User Stories for Iteration 7:**
 
 - **Join a Community**  
@@ -172,6 +174,8 @@ Both stories in this iteration enhance user functionality and community interact
 ## Iteration 8: Core Shopping Functionality
 **Change Event:** We integrated essential e-commerce capabilities to meet user demands.
 
+**Developers:** 1  
+
 **Selected User Stories for Iteration 8:**
 
 - **Purchase Clothing**  
@@ -189,6 +193,8 @@ The focus on the "Purchase Clothing" user story is crucial for enabling the core
 
 ## Iteration 9: Enhancing User Engagement
 **Change Event:** We shifted priorities based on user feedback to focus on enhancing interaction.
+
+**Developers:** 1  
 
 **Selected User Stories for Iteration 9:**
 
@@ -209,6 +215,8 @@ Fostering these social features can lead to increased user interaction and resul
 
 ## Iteration 10: Streamlining User Experience
 **Change Event:** We integrated additional user-centric features based on previous feedback.
+
+**Developers:** 1  
 
 **Selected User Stories for Iteration 10:**
 
@@ -232,6 +240,8 @@ The selection of these user stories focuses on improvements to user experience t
 ## Iteration 11: Feedback and Interaction
 **Change Event:** We prioritized critical user feedback mechanisms in the development cycle.
 
+**Developers:** 1  
+
 **Selected User Stories for Iteration 11:**
 
 - **Rate a Post**  
@@ -249,6 +259,8 @@ This iteration dedicates resources to refining the "Rate a Post" feature, crucia
 
 ## Iteration 12: Security Enhancements
 **Change Event:** We responded to user concerns regarding security and privacy settings.
+
+**Developers:** 1  
 
 **Selected User Stories for Iteration 12:**
 
@@ -271,6 +283,8 @@ This iteration focuses on critical security and shopping functionalities. Includ
 
 ## Iteration 13: Social and Community Features
 **Change Event:** We expanded user engagement through social features.
+
+**Developers:** 1  
 
 **Selected User Stories for Iteration 13:**
 
