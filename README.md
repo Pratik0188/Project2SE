@@ -265,7 +265,7 @@ This iteration focuses on critical security and shopping functionalities. Includ
 **Selected User Stories for Iteration 13:**
 
 - **Post Comments on Items**  
-  **Estimate:** 4 days  
+  **Estimate:** 3 days  
   **Priority:** 40  
 
 **Total Estimate:** 4 days  
@@ -371,5 +371,5 @@ This iteration emphasizes user interaction through comments, fostering community
 
 - **Post Comments on Items**  
   - **Description:** A user can comment on clothing items to share thoughts and experiences.  
-  - **Estimate:** 4 days  
+  - **Estimate:** 3 days  
   - **Priority:** 40  
