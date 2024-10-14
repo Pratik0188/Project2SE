@@ -324,6 +324,11 @@ Focusing on community engagement through comments reinforces social interactions
 - **Description:** A user will be able to buy clothes.
 - **Estimate:** 15 days
 - **Priority:** 30
+  
+**3. Purchase Clothing**
+- **Description:** A user will be able to buy clothes.
+- **Estimate:** 15 days
+- **Priority:** 30
 
 **11. Edit Profile Picture**
 - **Description:** A user can change their profile picture.
@@ -371,12 +376,6 @@ Focusing on community engagement through comments reinforces social interactions
 - **Description**: Create a functionality that enables users to report content that is inappropriate or violates community guidelines.
 - **Estimate**: 5 days
 - **Priority**: 30
-
-
-**3. Purchase Clothing**
-- **Description:** A user will be able to buy clothes.
-- **Estimate:** 15 days
-- **Priority:** 30
 
 
 **5. Join Community**
