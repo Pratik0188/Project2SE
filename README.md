@@ -64,7 +64,7 @@ The introduction of these new stories required a shift in focus to address urgen
   - **Estimate:** 10 days
   - **Priority:** 30
 
-**Total Estimate:** 12 days
+**Total Estimate:** 10 days
 
 **Discussion of Changes:**  
 The unforeseen increase in time for this story required dedicating the entire iteration to it. This change resulted in a deeper focus on quality and robustness of the rating feature, but it also delayed the implementation of other planned functionalities.
@@ -246,23 +246,26 @@ This iteration focuses on critical security and shopping functionalities. The in
 ---
 
 ## Iteration 13: Social and Community Features
-**Change Event:** Adjusting focus to include broader community features based on user feedback.
+**Change Event:** Expanding user engagement through social features.
 
 **Selected User Stories for Iteration 13:**
-- **Comment on a Post**
-  - **Estimate:** 5 days
+- **Post Comments on Items**
+  - **Estimate:** 4 days
+  - **Priority:** 40
 
-
-  - **Priority:** 20
-
-**Total Estimate:** 5 days
+**Total Estimate:** 4 days
 
 **Discussion of Changes:**  
-Focusing on community engagement through comments reinforces social interactions. This approach aligns well with project goals and ensures that community features remain a priority.
+This iteration emphasizes user interaction through comments, fostering community engagement. This aligns well with user demands for increased interaction and content sharing.
 
-**Effect:** Enhancing commenting capabilities can drive increased interaction, resulting in a more vibrant user community.
+**Effect:** Enhancing social features likely promotes user interaction and satisfaction.
 
 ---
+
+## Conclusion
+
+Throughout the iterations, the project has focused on adaptability and responsiveness to user feedback. Each iteration has been designed to balance feature delivery with the overall project timeline, ensuring a robust platform that meets user needs and expectations.
+
 
 
 ## User Stories
