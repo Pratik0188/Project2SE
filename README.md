@@ -292,7 +292,7 @@ Throughout the iterations, the project has focused on adaptability and responsiv
 
 - **Rate a Post**  
   - **Description:** A user can rate posts made by others.  
-  - **Estimate:** 6 days  
+  - **Estimate:** 5 days  
   - **Priority:** 30  
 
 - **Comment on a Post**  
