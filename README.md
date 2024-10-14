@@ -129,13 +129,13 @@ The focus on the "View a Closet" user story enhances the social aspect of the pl
 
 **Selected User Stories for Iteration 7:**
 - **Join a Community**
-  - **Estimate:** 4 days
+  - **Estimate:** 3 days
   - **Priority:** 10
 - **Search with Filter**
-  - **Estimate:** 2 days
+  - **Estimate:** 3 days
   - **Priority:** 40
 
-**Total Estimate:** 4 + 2 = 6 days
+**Total Estimate:** 3 + 3 = 6 days
 
 **Discussion of Changes:**  
 Both stories in this iteration aim to enhance user functionality and community interaction. Their selection aligns with user feedback and project goals, ensuring that essential features are developed efficiently while fitting within the limited capacity.
