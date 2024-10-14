@@ -286,37 +286,37 @@ Focusing on community engagement through comments reinforces social interactions
 **7. Comment on a Post**
 - **Description:** A user can add comments to posts made by others.
 - **Estimate:** 5 days
-- **Priority:** 20
+- **Priority:** 40
 
 **8. Find a Community**
 - **Description:** A user can search for communities matching their interests.
 - **Estimate:** 3 days
-- **Priority:** 20
+- **Priority:** 50
 
 **9. Create a Group**
 - **Description:** A user can create groups for friends to share clothing. A user can add new friends to those groups.
-- **Estimate:** 12 days
-- **Priority:** 50
+- **Estimate:** 6 days
+- **Priority:** 20
 
 **10. View a Closet**
 - **Description:** A user will be able to view other people's closets.
-- **Estimate:** 7 days
+- **Estimate:** 6 days
 - **Priority:** 30
 
 **11. Join Community**
 - **Description:** A user will be able to join a community.
-- **Estimate:** 4 days
+- **Estimate:** 3 days
 - **Priority:** 10
 
 **12. Search with Filter**
 - **Description:** A user will be able to filter through articles of clothes.
-- **Estimate:** 6 days
+- **Estimate:** 3 days
 - **Priority:** 40
 
 **13. Purchase Clothing**
 - **Description:** A user will be able to buy clothes.
-- **Estimate:** 15 days
-- **Priority:** 30
+- **Estimate:** 6 days
+- **Priority:** 10
   
 
 **14. Edit Profile Picture**
@@ -357,6 +357,6 @@ Focusing on community engagement through comments reinforces social interactions
 
 **21. Comment on a Post**
 - **Description:** A user can add comments to posts made by others.
-- **Estimate:** 5 days
+- **Estimate:** 6 days
 - **Priority:** 20
 
