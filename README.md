@@ -1,9 +1,8 @@
-**Name:** Pratik Pujara
-Email: pp139@uakron.edu
-Team Name: Curly Joe
-Section: CPSC 480-010
+**Name:** Pratik Pujara  
+**Email:** pp139@uakron.edu  
+**Team Name:** Curly Joe  
+**Section:** CPSC 480-010  
 
---
 
 # Iteration Plans for the Project
 
