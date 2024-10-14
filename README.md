@@ -262,111 +262,142 @@ This iteration emphasizes user interaction through comments, fostering community
 
 ---
 
-## Conclusion
+# User Stories
 
-Throughout the iterations, the project has focused on adaptability and responsiveness to user feedback. Each iteration has been designed to balance feature delivery with the overall project timeline, ensuring a robust platform that meets user needs and expectations.
+- **Upload a Video**
+  - **Description:** Users can post videos of their clothing.
+  - **Estimate:** 10 days
+  - **Priority:** 20
 
+---
 
+- **Create a Group**
+  - **Description:** Users can create groups for friends to share clothing and add new friends to those groups.
+  - **Estimate:** 12 days
+  - **Priority:** 50
 
-## User Stories
+---
 
-- **Upload a Video**  
-  - **Description:** A user will be able to post videos of their clothing.  
-  - **Estimate:** 8 days  
-  - **Priority:** 10  
+- **Purchase Clothes**
+  - **Description:** Users can buy clothes through the platform.
+  - **Estimate:** 15 days
+  - **Priority:** 30
 
-- **Preview Outfit**  
-  - **Description:** A user will be able to preview outfits on them with augmented reality with AI.  
-  - **Estimate:** 2 days  
-  - **Priority:** 20  
+---
 
-- **Send a Direct Message**  
-  - **Description:** Implement a feature that allows users to send direct messages to each other for private communication.  
-  - **Estimate:** 5 days  
-  - **Priority:** 50  
+- **Preview Outfit**
+  - **Description:** Users can preview outfits on themselves using augmented reality with AI.
+  - **Estimate:** 3 days
+  - **Priority:** 10
 
-- **Report Inappropriate Content**  
-  - **Description:** Create a functionality that enables users to report content that is inappropriate or violates community guidelines.  
-  - **Estimate:** 5 days  
-  - **Priority:** 30  
+---
 
-- **Rate a Post**  
-  - **Description:** A user can rate posts made by others.  
-  - **Estimate:** 5 days  
-  - **Priority:** 30  
+- **Join Community**
+  - **Description:** Users can join a community that shares their interests.
+  - **Estimate:** 4 days
+  - **Priority:** 10
 
-- **Comment on a Post**  
-  - **Description:** A user can add comments to posts made by others.  
-  - **Estimate:** 5 days  
-  - **Priority:** 40  
+---
 
-- **Find a Community**  
-  - **Description:** A user can search for communities matching their interests.  
-  - **Estimate:** 3 days  
-  - **Priority:** 50  
+- **Search with Filter**
+  - **Description:** Users can filter through clothing articles to find specific items.
+  - **Estimate:** 6 days
+  - **Priority:** 40
 
-- **Create a Group**  
-  - **Description:** A user can create groups for friends to share clothing. A user can add new friends to those groups.  
-  - **Estimate:** 5 days  
-  - **Priority:** 20  
+---
 
-- **View a Closet**  
-  - **Description:** A user will be able to view other people's closets.  
-  - **Estimate:** 5 days  
-  - **Priority:** 30  
+- **View a Closet**
+  - **Description:** Users can view other people's closets to explore styles.
+  - **Estimate:** 7 days
+  - **Priority:** 30
 
-- **Join a Community**  
-  - **Description:** A user will be able to join a community.  
-  - **Estimate:** 3 days  
-  - **Priority:** 10  
+---
 
-- **Search with Filter**  
-  - **Description:** A user will be able to filter through articles of clothes.  
-  - **Estimate:** 3 days  
-  - **Priority:** 40  
+- **Comment on a Post**
+  - **Description:** Users can add comments to posts made by others for engagement.
+  - **Estimate:** 5 days
+  - **Priority:** 20
 
-- **Purchase Clothing**  
-  - **Description:** A user will be able to buy clothes.  
-  - **Estimate:** 5 days  
-  - **Priority:** 10  
+---
 
-- **Edit Profile Picture**  
-  - **Description:** A user can change their profile picture.  
-  - **Estimate:** 3 days  
-  - **Priority:** 10  
+- **Find a Community**
+  - **Description:** Users can search for communities matching their interests.
+  - **Estimate:** 3 days
+  - **Priority:** 20
 
-- **Share an Outfit**  
-  - **Description:** A user can share their outfit choices with others.  
-  - **Estimate:** 3 days  
-  - **Priority:** 50  
+---
 
-- **Add Clothing to Favorites**  
-  - **Description:** A user can mark clothing items as favorites for easy access later.  
-  - **Estimate:** 3 days  
-  - **Priority:** 10  
+- **Rate a Post**
+  - **Description:** Users can rate posts made by others to provide feedback.
+  - **Estimate:** 5 days
+  - **Priority:** 30
 
-- **Invite a Friend**  
-  - **Description:** A user can invite friends to join the platform.  
-  - **Estimate:** 3 days  
-  - **Priority:** 20  
+---
 
-- **Rate a Post**  
-  - **Description:** A user can rate posts made by others.  
-  - **Estimate:** 5 days  
-  - **Priority:** 30  
+- **Send a Direct Message**
+  - **Description:** Users can send direct messages to other users for better communication.
+  - **Estimate:** 5 days
+  - **Priority:** 50
 
-- **Update Privacy Settings**  
-  - **Description:** A user can update their privacy settings to control who sees their information.  
-  - **Estimate:** 3 days  
-  - **Priority:** 30  
+---
 
-- **Add Items to Cart**  
-  - **Description:** A user can add clothing items to their shopping cart for purchase.  
-  - **Estimate:** 2 days  
-  - **Priority:** 20  
+- **Report Inappropriate Content**
+  - **Description:** Users can report any inappropriate content they encounter on the platform.
+  - **Estimate:** 5 days
+  - **Priority:** 30
 
-- **Comment on a Post**  
-  - **Description:** A user can add comments to posts made by others.  
-  - **Estimate:** 5 days  
-  - **Priority:** 20  
+---
 
+- **Update Privacy Settings**
+  - **Description:** Users can update their privacy settings to control who can see their content.
+  - **Estimate:** 3 days
+  - **Priority:** 30
+
+---
+
+- **Add Items to Cart**
+  - **Description:** Users can add clothing items to their shopping cart for later purchase.
+  - **Estimate:** 2 days
+  - **Priority:** 20
+
+---
+
+- **Edit Profile Picture**
+  - **Description:** Users can edit their profile picture to personalize their accounts.
+  - **Estimate:** 3 days
+  - **Priority:** 10
+
+---
+
+- **Share an Outfit**
+  - **Description:** Users can share their outfits with friends or communities.
+  - **Estimate:** 3 days
+  - **Priority:** 50
+
+---
+
+- **Add Clothing to Favorites**
+  - **Description:** Users can mark clothing items as favorites for easy access later.
+  - **Estimate:** 3 days
+  - **Priority:** 10
+
+---
+
+- **Invite a Friend**
+  - **Description:** Users can invite friends to join the platform and enhance their experience.
+  - **Estimate:** 3 days
+  - **Priority:** 20
+
+---
+
+- **Search Items**
+  - **Description:** Users can search for clothing items by name or category.
+  - **Estimate:** 5 days
+  - **Priority:** 30
+
+---
+
+- **Create a Wishlist**
+  - **Description:** Users can create a wishlist of items they wish to purchase in the future.
+  - **Estimate:** 4 days
+  - **Priority:** 20
