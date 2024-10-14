@@ -93,10 +93,10 @@ With reduced team capacity, the iteration plan had to prioritize essential funct
 
 **Selected User Stories for Iteration 5:**
 - **Create a Group**
-  - **Estimate:** 6 days
+  - **Estimate:** 5 days
   - **Priority:** 20
 
-**Total Estimate:** 6 days
+**Total Estimate:** 5 days
 
 **Discussion of Changes:**  
 This iteration focuses solely on the "Create a Group" user story, which is essential for fostering user interactions. While this limits the scope of features delivered, it allows the team to ensure a robust implementation, aligning with user needs and improving engagement.
@@ -295,7 +295,7 @@ Focusing on community engagement through comments reinforces social interactions
 
 **9. Create a Group**
 - **Description:** A user can create groups for friends to share clothing. A user can add new friends to those groups.
-- **Estimate:** 6 days
+- **Estimate:** 5 days
 - **Priority:** 20
 
 **10. View a Closet**
