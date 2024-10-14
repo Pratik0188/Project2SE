@@ -344,6 +344,11 @@ This iteration emphasizes user interaction through comments, fostering community
   - **Estimate:** 3 days  
   - **Priority:** 20  
 
+- **Rate a Post**  
+  - **Description:** A user will be able to rate posts made by others to provide feedback.  
+  - **Estimate:** 5 days  
+  - **Priority:** 30  
+
 - **Update Privacy Settings**  
   - **Description:** A user will be able to adjust their privacy settings for better control over their data.  
   - **Estimate:** 3 days  
