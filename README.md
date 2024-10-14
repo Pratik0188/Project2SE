@@ -264,8 +264,6 @@ Focusing on community engagement through comments reinforces social interactions
 
 ---
 
-Here’s the **Markdown** file with bullet points for the user stories:
-
 
 ## User Stories
 
