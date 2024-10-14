@@ -5,7 +5,7 @@
 **Team Name:** Curly Joe  
 **Section:** CPSC 480-010  
 
--
+---
 
 # Iteration Plans for the Project
 
