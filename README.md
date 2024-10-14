@@ -258,9 +258,9 @@ Focusing on community engagement through comments reinforces social interactions
 ## User Stories
 
 **1. Upload a Video**
-**Description:** A user will be able to post videos of their clothing.
-**Estimate:** 10 days
-**Priority:** 20
+- **Description:** A user will be able to post videos of their clothing.
+- **Estimate:** 10 days
+- **Priority:** 20
 2. Create a Group
 Description: A user can create groups for friends to share clothing. A user can add new friends to those groups.
 Estimate: 12 days
