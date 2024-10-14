@@ -1,4 +1,4 @@
-**Name: Pratik Pujara**
+**Name:** Pratik Pujara
 Email: pp139@uakron.edu
 Team Name: Curly Joe
 Section: CPSC 480-010
