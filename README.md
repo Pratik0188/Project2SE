@@ -278,12 +278,6 @@ Focusing on community engagement through comments reinforces social interactions
 - **Priority**: 30
 
 
-**5. Purchase Clothing**
-- **Description:** A user will be able to buy clothes.
-- **Estimate:** 15 days
-- **Priority:** 30
-
-
 **6. Rate a Post**
 - **Description:** A user can rate posts made by others.
 - **Estimate:** 6 days
