@@ -35,6 +35,7 @@ This iteration focuses on foundational functionalities essential for user engage
 
 ## Iteration 2: Adjustment with New User Stories
 **Change Event:** We introduced an emergency feature, **Send a Direct Message**, and a new feature, **Report Inappropriate Content**.
+**Developers:** 2
 
 **Selected User Stories for Iteration 2:**
 
@@ -57,6 +58,7 @@ We shifted our focus to address urgent user needs with the introduction of these
 
 ## Iteration 3: Increased Complexity in a User Story
 **Change Event:** We adjusted the user story **Rate a Post** from an initial estimate of 5 days to 10 days due to increased complexity.
+**Developers:** 2
 
 **Selected User Stories for Iteration 3:**
 
