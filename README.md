@@ -112,10 +112,10 @@ This iteration focuses solely on the "Create a Group" user story, which is essen
 
 **Selected User Stories for Iteration 6:**
 - **View a Closet**
-  - **Estimate:** 6 days
+  - **Estimate:** 5 days
   - **Priority:** 30
 
-**Total Estimate:** 6 days
+**Total Estimate:** 5 days
 
 **Discussion of Changes:**  
 The focus on the "View a Closet" user story enhances the social aspect of the platform. This fits perfectly within the capacity and aims to improve user engagement. While the number of features delivered remains low, the emphasis on quality remains a priority.
@@ -149,10 +149,10 @@ Both stories in this iteration aim to enhance user functionality and community i
 
 **Selected User Stories for Iteration 8:**
 - **Purchase Clothing**
-  - **Estimate:** 6 days
+  - **Estimate:** 5 days
   - **Priority:** 10
 
-**Total Estimate:** 6 days
+**Total Estimate:** 5 days
 
 **Discussion of Changes:**  
 The focus on the "Purchase Clothing" user story is crucial for enabling the core business model of the platform. This decision supports transactional capabilities while fitting neatly within the available capacity, reinforcing project priorities.
@@ -204,10 +204,10 @@ The selection of these user stories focuses on user experience improvements thro
 
 **Selected User Stories for Iteration 11:**
 - **Rate a Post**
-  - **Estimate:** 6 days
+  - **Estimate:** 5 days
   - **Priority:** 30
 
-**Total Estimate:** 6 days
+**Total Estimate:** 5 days
 
 **Discussion of Changes:**  
 This iteration dedicates resources to refining the "Rate a Post" feature, crucial for user feedback and engagement. By focusing solely on this story, the team can ensure a high-quality implementation.
@@ -221,13 +221,13 @@ This iteration dedicates resources to refining the "Rate a Post" feature, crucia
 
 **Selected User Stories for Iteration 12:**
 - **Update Privacy Settings**
-  - **Estimate:** 4 days
+  - **Estimate:** 3 days
   - **Priority:** 30
 - **Add Items to Cart**
   - **Estimate:** 2 days
   - **Priority:** 20
 
-**Total Estimate:** 4 + 2 = 6 days
+**Total Estimate:** 3 + 2 = 5 days
 
 **Discussion of Changes:**  
 This iteration focuses on critical security and shopping functionalities. The inclusion of privacy settings reflects user concerns while the shopping features enhance the overall user experience.
@@ -241,12 +241,12 @@ This iteration focuses on critical security and shopping functionalities. The in
 
 **Selected User Stories for Iteration 13:**
 - **Comment on a Post**
-  - **Estimate:** 6 days
+  - **Estimate:** 5 days
 
 
   - **Priority:** 20
 
-**Total Estimate:** 6 days
+**Total Estimate:** 5 days
 
 **Discussion of Changes:**  
 Focusing on community engagement through comments reinforces social interactions. This approach aligns well with project goals and ensures that community features remain a priority.
@@ -300,7 +300,7 @@ Focusing on community engagement through comments reinforces social interactions
 
 **10. View a Closet**
 - **Description:** A user will be able to view other people's closets.
-- **Estimate:** 6 days
+- **Estimate:** 5 days
 - **Priority:** 30
 
 **11. Join Community**
@@ -315,7 +315,7 @@ Focusing on community engagement through comments reinforces social interactions
 
 **13. Purchase Clothing**
 - **Description:** A user will be able to buy clothes.
-- **Estimate:** 6 days
+- **Estimate:** 5 days
 - **Priority:** 10
   
 
@@ -347,7 +347,7 @@ Focusing on community engagement through comments reinforces social interactions
 
 **19. Update Privacy Settings**
 - **Description:** A user can update their privacy settings to control who sees their information.
-- **Estimate:** 4 days
+- **Estimate:** 3 days
 - **Priority:** 30
 
 **20. Add Items to Cart**
@@ -357,6 +357,6 @@ Focusing on community engagement through comments reinforces social interactions
 
 **21. Comment on a Post**
 - **Description:** A user can add comments to posts made by others.
-- **Estimate:** 6 days
+- **Estimate:** 5 days
 - **Priority:** 20
 
