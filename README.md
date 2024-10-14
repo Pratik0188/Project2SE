@@ -35,9 +35,9 @@ This iteration focuses on foundational functionalities essential for user engage
 
 ## Iteration 2: Adjustment with New User Stories
 
-**Developers:** 2
-
 **Change Event:** We introduced an emergency feature, **Send a Direct Message**, and a new feature, **Report Inappropriate Content**.
+
+**Developers:** 2
 
 **Selected User Stories for Iteration 2:**
 
@@ -60,9 +60,9 @@ We shifted our focus to address urgent user needs with the introduction of these
 
 ## Iteration 3: Increased Complexity in a User Story
 
-**Developers:** 2
-
 **Change Event:** We adjusted the user story **Rate a Post** from an initial estimate of 5 days to 10 days due to increased complexity.
+
+**Developers:** 2
 
 **Selected User Stories for Iteration 3:**
 
@@ -81,9 +81,9 @@ The unforeseen increase in time for this story required us to dedicate the entir
 
 ## Iteration 4: Impact of Developer Departure
 
-- **Developers:** 1  
-
 **Change Event:** The departure of a developer reduced our team capacity.
+
+- **Developers:** 1  
 
 **Adjusted Capacity:**
 - **Total Capacity:** 10 days × 0.6 = 6 days  
@@ -109,6 +109,8 @@ With our reduced team capacity, we prioritized essential functionalities. We foc
 
 ## Iteration 5: Capacity Limitations
 **Change Event:** We maintained our capacity at 6 days due to the continued reduced team size.
+
+**Developers:** 1  
 
 **Selected User Stories for Iteration 5:**
 
