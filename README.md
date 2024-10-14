@@ -18,13 +18,11 @@
 
 **Selected User Stories:**
 
-- **Upload a Video**  
-  **Description:** A user will be able to post videos showcasing their clothing.  
+- **Upload a Video**
   **Estimate:** 8 days  
   **Priority:** 10  
 
 - **Preview Outfit**  
-  **Description:** A user will be able to preview outfits on themselves using augmented reality.  
   **Estimate:** 2 days  
   **Priority:** 20  
 
@@ -41,12 +39,10 @@ This iteration focuses on foundational functionalities essential for user engage
 **Selected User Stories for Iteration 2:**
 
 - **Send a Direct Message (Emergency)**  
-  **Description:** A user will be able to send direct messages for urgent communication.  
   **Estimate:** 5 days  
   **Priority:** 50  
 
 - **Report Inappropriate Content (New Feature)**  
-  **Description:** A user can report any inappropriate content they encounter on the platform.  
   **Estimate:** 5 days  
   **Priority:** 30  
 
@@ -65,7 +61,6 @@ The introduction of these new stories required us to shift focus to address urge
 **Selected User Stories for Iteration 3:**
 
 - **Rate a Post**  
-  **Description:** A user will be able to rate posts made by others to provide feedback.  
   **Adjusted Estimate:** 10 days  
   **Priority:** 30  
 
@@ -88,12 +83,10 @@ The unforeseen increase in time for this story required us to dedicate the entir
 **Selected User Stories for Iteration 4:**
 
 - **Comment on a Post**  
-  **Description:** A user can add comments to posts made by others to engage in discussions.  
   **Estimate:** 5 days  
   **Priority:** 40  
 
 - **Find a Community**  
-  **Description:** A user can search for communities that match their interests.  
   **Estimate:** 3 days  
   **Priority:** 50  
 
@@ -112,7 +105,6 @@ With reduced team capacity, we prioritized essential functionalities. The select
 **Selected User Stories for Iteration 5:**
 
 - **Create a Group**  
-  **Description:** A user can create groups for friends to share clothing and styles.  
   **Estimate:** 5 days  
   **Priority:** 20  
 
@@ -133,7 +125,6 @@ This iteration focuses solely on the "Create a Group" user story, which is essen
 **Selected User Stories for Iteration 6:**
 
 - **View a Closet**  
-  **Description:** A user will be able to view other users' closets to gain inspiration.  
   **Estimate:** 5 days  
   **Priority:** 30  
 
@@ -152,12 +143,10 @@ The focus on the "View a Closet" user story enhances the social aspect of the pl
 **Selected User Stories for Iteration 7:**
 
 - **Join a Community**  
-  **Description:** A user will be able to join a community to connect with like-minded individuals.  
   **Estimate:** 3 days  
   **Priority:** 10  
 
 - **Search with Filter**  
-  **Description:** A user will be able to filter through articles of clothing based on specific criteria.  
   **Estimate:** 3 days  
   **Priority:** 40  
 
@@ -176,7 +165,6 @@ Both stories in this iteration aim to enhance user functionality and community i
 **Selected User Stories for Iteration 8:**
 
 - **Purchase Clothing**  
-  **Description:** A user will be able to buy clothes directly through the platform.  
   **Estimate:** 5 days  
   **Priority:** 10  
 
@@ -195,12 +183,10 @@ The focus on the "Purchase Clothing" user story is crucial for enabling the core
 **Selected User Stories for Iteration 9:**
 
 - **Edit Profile Picture**  
-  **Description:** A user can update their profile picture to personalize their account.  
   **Estimate:** 3 days  
   **Priority:** 10  
 
 - **Share an Outfit**  
-  **Description:** A user can share their outfit choices with the community.  
   **Estimate:** 3 days  
   **Priority:** 50  
 
@@ -217,12 +203,10 @@ Fostering these social features can lead to increased user interaction, resultin
 **Selected User Stories for Iteration 10:**
 
 - **Add Clothing to Favorites**  
-  **Description:** A user can mark clothing items as favorites for quick access later.  
   **Estimate:** 3 days  
   **Priority:** 10  
 
 - **Invite a Friend**  
-  **Description:** A user can invite friends to join the platform and share clothing styles.  
   **Estimate:** 3 days  
   **Priority:** 20  
 
@@ -241,7 +225,6 @@ The selection of these user stories focuses on user experience improvements thro
 **Selected User Stories for Iteration 11:**
 
 - **Rate a Post**  
-  **Description:** A user will be able to rate posts made by others to provide feedback.  
   **Estimate:** 5 days  
   **Priority:** 30  
 
@@ -260,12 +243,10 @@ This iteration dedicates resources to refining the "Rate a Post" feature, crucia
 **Selected User Stories for Iteration 12:**
 
 - **Update Privacy Settings**  
-  **Description:** A user will be able to adjust their privacy settings for better control over their data.  
   **Estimate:** 3 days  
   **Priority:** 30  
 
 - **Add Items to Cart**  
-  **Description:** A user can add clothing items to their cart for future purchase.  
   **Estimate:** 2 days  
   **Priority:** 20  
 
@@ -284,7 +265,6 @@ This iteration focuses on critical security and shopping functionalities. The in
 **Selected User Stories for Iteration 13:**
 
 - **Post Comments on Items**  
-  **Description:** A user can comment on clothing items to share thoughts and experiences.  
   **Estimate:** 4 days  
   **Priority:** 40  
 
@@ -299,7 +279,7 @@ This iteration emphasizes user interaction through comments, fostering community
 
 ## User Stories
 
-- **Upload a Video**  
+- **Upload a Video**
   - **Description:** A user will be able to post videos showcasing their clothing.  
   - **Estimate:** 8 days  
   - **Priority:** 10  
