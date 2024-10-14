@@ -18,7 +18,7 @@
 **Total Estimate:** 8 + 2 = 10 days
 
 **Discussion of the Plan:**  
-This iteration focuses on foundational functionalities essential for user engagement. The user stories were selected based on their alignment with user needs and overall project goals, fitting well within the available capacity of 12 days. This sets a strong foundation for subsequent iterations.
+This iteration focuses on foundational functionalities essential for user engagement. The user stories were selected based on their alignment with user needs and overall project goals, fitting well within the available capacity of 10 days. This sets a strong foundation for subsequent iterations.
 
 ---
 
