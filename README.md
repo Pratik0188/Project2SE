@@ -259,23 +259,124 @@ Focusing on community engagement through comments reinforces social interactions
 
 **1. Upload a Video**
 - **Description:** A user will be able to post videos of their clothing.
-- **Estimate:** 10 days
+- **Estimate:** 8 days
+- **Priority:** 10
+
+**2. Preview Outfit**
+- **Description:** A user will be able to preview outfits on them with augmented reality with AI.
+- **Estimate:** 2 days
 - **Priority:** 20
 
-**2. Create a Group**
-- **Description:** A user can create groups for friends to share clothing. A user can add new friends to those groups.
-- **Estimate:** 12 days
-- **Priority:** 50
+
+**4. Report Inappropriate Content**
+- **Description**: Create a functionality that enables users to report content that is inappropriate or violates community guidelines.
+- **Estimate**: 5 days
+- **Priority**: 30
+
 
 **3. Purchase Clothing**
 - **Description:** A user will be able to buy clothes.
 - **Estimate:** 15 days
 - **Priority:** 30
 
-**4. Preview Outfit**
-- **Description:** A user will be able to preview outfits on them with augmented reality with AI.
+**4. Send a Direct Message**
+- **Description**: Implement a feature that allows users to send direct messages to each other for private communication.
+- **Estimate**: 5 days
+- **Priority**: 50
+
+**5. Rate a Post**
+- **Description:** A user can rate posts made by others.
+- **Estimate:** 6 days
+- **Priority:** 30
+
+**6. Comment on a Post**
+- **Description:** A user can add comments to posts made by others.
+- **Estimate:** 5 days
+- **Priority:** 20
+
+**7. Find a Community**
+- **Description:** A user can search for communities matching their interests.
+- **Estimate:** 3 days
+- **Priority:** 20
+
+**3. Create a Group**
+- **Description:** A user can create groups for friends to share clothing. A user can add new friends to those groups.
+- **Estimate:** 12 days
+- **Priority:** 50
+
+**7. View a Closet**
+- **Description:** A user will be able to view other people's closets.
+- **Estimate:** 7 days
+- **Priority:** 30
+
+**5. Join Community**
+- **Description:** A user will be able to join a community.
+- **Estimate:** 4 days
+- **Priority:** 10
+
+**6. Search with Filter**
+- **Description:** A user will be able to filter through articles of clothes.
+- **Estimate:** 6 days
+- **Priority:** 40
+
+**3. Purchase Clothing**
+- **Description:** A user will be able to buy clothes.
+- **Estimate:** 15 days
+- **Priority:** 30
+
+**11. Edit Profile Picture**
+- **Description:** A user can change their profile picture.
 - **Estimate:** 3 days
 - **Priority:** 10
+
+**12. Share an Outfit**
+- **Description:** A user can share their outfit choices with others.
+- **Estimate:** 3 days
+- **Priority:** 50
+
+
+**13. Add Clothing to Favorites**
+- **Description:** A user can mark clothing items as favorites for easy access later.
+- **Estimate:** 3 days
+- **Priority:** 10
+
+**14. Invite a Friend**
+- **Description:** A user can invite friends to join the platform.
+- **Estimate:** 3 days
+- **Priority:** 20
+
+**10. Rate a Post**
+- **Description:** A user can rate posts made by others.
+- **Estimate:** 6 days
+- **Priority:** 30
+
+**15. Update Privacy Settings**
+- **Description:** A user can update their privacy settings to control who sees their information.
+- **Estimate:** 4 days
+- **Priority:** 30
+
+**16. Add Items to Cart**
+- **Description:** A user can add clothing items to their shopping cart for purchase.
+- **Estimate:** 2 days
+- **Priority:** 20
+
+**8. Comment on a Post**
+- **Description:** A user can add comments to posts made by others.
+- **Estimate:** 5 days
+- **Priority:** 20
+
+
+**4. Report Inappropriate Content**
+- **Description**: Create a functionality that enables users to report content that is inappropriate or violates community guidelines.
+- **Estimate**: 5 days
+- **Priority**: 30
+
+
+**3. Purchase Clothing**
+- **Description:** A user will be able to buy clothes.
+- **Estimate:** 15 days
+- **Priority:** 30
+
 
 **5. Join Community**
 - **Description:** A user will be able to join a community.
