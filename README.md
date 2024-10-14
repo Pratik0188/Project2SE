@@ -267,6 +267,11 @@ Focusing on community engagement through comments reinforces social interactions
 - **Estimate:** 2 days
 - **Priority:** 20
 
+**4. Send a Direct Message**
+- **Description**: Implement a feature that allows users to send direct messages to each other for private communication.
+- **Estimate**: 5 days
+- **Priority**: 50
+
 
 **4. Report Inappropriate Content**
 - **Description**: Create a functionality that enables users to report content that is inappropriate or violates community guidelines.
@@ -279,10 +284,6 @@ Focusing on community engagement through comments reinforces social interactions
 - **Estimate:** 15 days
 - **Priority:** 30
 
-**4. Send a Direct Message**
-- **Description**: Implement a feature that allows users to send direct messages to each other for private communication.
-- **Estimate**: 5 days
-- **Priority**: 50
 
 **5. Rate a Post**
 - **Description:** A user can rate posts made by others.
