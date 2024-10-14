@@ -43,16 +43,16 @@ The introduction of these new stories required a shift in focus to address urgen
 ---
 
 ## Iteration 3: Increased Complexity in a User Story
-**Change Event:** The user story Rate a Post was initially estimated at 6 days but adjusted to 12 days due to increased complexity.
+**Change Event:** The user story Rate a Post was initially estimated at 5 days but adjusted to 10 days due to increased complexity.
 
 **Adjusted User Story:**
 - **Rate a Post**
-  - **Adjusted Estimate:** 12 days
+  - **Adjusted Estimate:** 10 days
   - **Priority:** 30
 
 **Selected User Stories for Iteration 3:**
 - **Rate a Post**
-  - **Estimate:** 12 days
+  - **Estimate:** 10 days
   - **Priority:** 30
 
 **Total Estimate:** 12 days
@@ -342,7 +342,7 @@ Focusing on community engagement through comments reinforces social interactions
 
 **18. Rate a Post**
 - **Description:** A user can rate posts made by others.
-- **Estimate:** 6 days
+- **Estimate:** 5 days
 - **Priority:** 30
 
 **19. Update Privacy Settings**
