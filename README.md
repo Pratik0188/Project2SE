@@ -264,108 +264,108 @@ Focusing on community engagement through comments reinforces social interactions
 
 ---
 
+Here’s the **Markdown** file with bullet points for the user stories:
+
+
 ## User Stories
 
-- ** Upload a Video**
-- **Description:** A user will be able to post videos of their clothing.
-- **Estimate:** 8 days
-- **Priority:** 10
+- **Upload a Video**  
+  - **Description:** A user will be able to post videos of their clothing.  
+  - **Estimate:** 8 days  
+  - **Priority:** 10  
 
-**2. Preview Outfit**
-- **Description:** A user will be able to preview outfits on them with augmented reality with AI.
-- **Estimate:** 2 days
-- **Priority:** 20
+- **Preview Outfit**  
+  - **Description:** A user will be able to preview outfits on them with augmented reality with AI.  
+  - **Estimate:** 2 days  
+  - **Priority:** 20  
 
-**3. Send a Direct Message**
-- **Description**: Implement a feature that allows users to send direct messages to each other for private communication.
-- **Estimate**: 5 days
-- **Priority**: 50
+- **Send a Direct Message**  
+  - **Description:** Implement a feature that allows users to send direct messages to each other for private communication.  
+  - **Estimate:** 5 days  
+  - **Priority:** 50  
 
-**4. Report Inappropriate Content**
-- **Description**: Create a functionality that enables users to report content that is inappropriate or violates community guidelines.
-- **Estimate**: 5 days
-- **Priority**: 30
+- **Report Inappropriate Content**  
+  - **Description:** Create a functionality that enables users to report content that is inappropriate or violates community guidelines.  
+  - **Estimate:** 5 days  
+  - **Priority:** 30  
 
+- **Rate a Post**  
+  - **Description:** A user can rate posts made by others.  
+  - **Estimate:** 6 days  
+  - **Priority:** 30  
 
-**6. Rate a Post**
-- **Description:** A user can rate posts made by others.
-- **Estimate:** 6 days
-- **Priority:** 30
+- **Comment on a Post**  
+  - **Description:** A user can add comments to posts made by others.  
+  - **Estimate:** 5 days  
+  - **Priority:** 40  
 
-**7. Comment on a Post**
-- **Description:** A user can add comments to posts made by others.
-- **Estimate:** 5 days
-- **Priority:** 40
+- **Find a Community**  
+  - **Description:** A user can search for communities matching their interests.  
+  - **Estimate:** 3 days  
+  - **Priority:** 50  
 
-**8. Find a Community**
-- **Description:** A user can search for communities matching their interests.
-- **Estimate:** 3 days
-- **Priority:** 50
+- **Create a Group**  
+  - **Description:** A user can create groups for friends to share clothing. A user can add new friends to those groups.  
+  - **Estimate:** 5 days  
+  - **Priority:** 20  
 
-**9. Create a Group**
-- **Description:** A user can create groups for friends to share clothing. A user can add new friends to those groups.
-- **Estimate:** 5 days
-- **Priority:** 20
+- **View a Closet**  
+  - **Description:** A user will be able to view other people's closets.  
+  - **Estimate:** 5 days  
+  - **Priority:** 30  
 
-**10. View a Closet**
-- **Description:** A user will be able to view other people's closets.
-- **Estimate:** 5 days
-- **Priority:** 30
+- **Join a Community**  
+  - **Description:** A user will be able to join a community.  
+  - **Estimate:** 3 days  
+  - **Priority:** 10  
 
-**11. Join Community**
-- **Description:** A user will be able to join a community.
-- **Estimate:** 3 days
-- **Priority:** 10
+- **Search with Filter**  
+  - **Description:** A user will be able to filter through articles of clothes.  
+  - **Estimate:** 3 days  
+  - **Priority:** 40  
 
-**12. Search with Filter**
-- **Description:** A user will be able to filter through articles of clothes.
-- **Estimate:** 3 days
-- **Priority:** 40
+- **Purchase Clothing**  
+  - **Description:** A user will be able to buy clothes.  
+  - **Estimate:** 5 days  
+  - **Priority:** 10  
 
-**13. Purchase Clothing**
-- **Description:** A user will be able to buy clothes.
-- **Estimate:** 5 days
-- **Priority:** 10
-  
+- **Edit Profile Picture**  
+  - **Description:** A user can change their profile picture.  
+  - **Estimate:** 3 days  
+  - **Priority:** 10  
 
-**14. Edit Profile Picture**
-- **Description:** A user can change their profile picture.
-- **Estimate:** 3 days
-- **Priority:** 10
+- **Share an Outfit**  
+  - **Description:** A user can share their outfit choices with others.  
+  - **Estimate:** 3 days  
+  - **Priority:** 50  
 
-**15. Share an Outfit**
-- **Description:** A user can share their outfit choices with others.
-- **Estimate:** 3 days
-- **Priority:** 50
+- **Add Clothing to Favorites**  
+  - **Description:** A user can mark clothing items as favorites for easy access later.  
+  - **Estimate:** 3 days  
+  - **Priority:** 10  
 
+- **Invite a Friend**  
+  - **Description:** A user can invite friends to join the platform.  
+  - **Estimate:** 3 days  
+  - **Priority:** 20  
 
-**16. Add Clothing to Favorites**
-- **Description:** A user can mark clothing items as favorites for easy access later.
-- **Estimate:** 3 days
-- **Priority:** 10
+- **Rate a Post**  
+  - **Description:** A user can rate posts made by others.  
+  - **Estimate:** 5 days  
+  - **Priority:** 30  
 
-**17. Invite a Friend**
-- **Description:** A user can invite friends to join the platform.
-- **Estimate:** 3 days
-- **Priority:** 20
+- **Update Privacy Settings**  
+  - **Description:** A user can update their privacy settings to control who sees their information.  
+  - **Estimate:** 3 days  
+  - **Priority:** 30  
 
-**18. Rate a Post**
-- **Description:** A user can rate posts made by others.
-- **Estimate:** 5 days
-- **Priority:** 30
+- **Add Items to Cart**  
+  - **Description:** A user can add clothing items to their shopping cart for purchase.  
+  - **Estimate:** 2 days  
+  - **Priority:** 20  
 
-**19. Update Privacy Settings**
-- **Description:** A user can update their privacy settings to control who sees their information.
-- **Estimate:** 3 days
-- **Priority:** 30
-
-**20. Add Items to Cart**
-- **Description:** A user can add clothing items to their shopping cart for purchase.
-- **Estimate:** 2 days
-- **Priority:** 20
-
-**21. Comment on a Post**
-- **Description:** A user can add comments to posts made by others.
-- **Estimate:** 5 days
-- **Priority:** 20
+- **Comment on a Post**  
+  - **Description:** A user can add comments to posts made by others.  
+  - **Estimate:** 5 days  
+  - **Priority:** 20  
 
