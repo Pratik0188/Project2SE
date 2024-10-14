@@ -255,22 +255,79 @@ Focusing on community engagement through comments reinforces social interactions
 
 ---
 
-## Summary of User Stories
-| User Story                       | Estimate (days) | Priority |
-|----------------------------------|------------------|----------|
-| Upload a Video                   | 10               | 20       |
-| Create a Group                   | 12               | 50       |
-| Purchase Clothes                 | 15               | 30       |
-| Preview Outfit                   | 3                | 10       |
-| Join Community                   | 4                | 10       |
-| Search with Filter               | 6                | 40       |
-| View a Closet                    | 7                | 30       |
-| Comment on a Post                | 5                | 20       |
-| Find a Community                 | 3                | 20       |
-| Rate a Post                      | 6                | 30       |
-| Update Privacy Settings           | 4                | 30       |
-| Add Items to Cart                | 2                | 20       |
-| Send a Direct Message            | 5                | 50       |
-| Report Inappropriate Content      | 5                | 30 |
-```
+## User Stories
+
+1. Upload a Video
+Description: A user will be able to post videos of their clothing.
+Estimate: 10 days
+Priority: 20
+2. Create a Group
+Description: A user can create groups for friends to share clothing. A user can add new friends to those groups.
+Estimate: 12 days
+Priority: 50
+3. Purchase Clothing
+Description: A user will be able to buy clothes.
+Estimate: 15 days
+Priority: 30
+4. Preview Outfit
+Description: A user will be able to preview outfits on them with augmented reality with AI.
+Estimate: 3 days
+Priority: 10
+5. Join Community
+Description: A user will be able to join a community.
+Estimate: 4 days
+Priority: 10
+6. Search with Filter
+Description: A user will be able to filter through articles of clothes.
+Estimate: 6 days
+Priority: 40
+7. View a Closet
+Description: A user will be able to view other people's closets.
+Estimate: 7 days
+Priority: 30
+8. Comment on a Post
+Description: A user can add comments to posts made by others.
+Estimate: 5 days
+Priority: 20
+9. Find a Community
+Description: A user can search for communities matching their interests.
+Estimate: 3 days
+Priority: 20
+10. Rate a Post
+Description: A user can rate posts made by others.
+Estimate: 6 days
+Priority: 30
+11. Edit Profile Picture
+Description: A user can change their profile picture.
+Estimate: 3 days
+Priority: 10
+12. Share an Outfit
+Description: A user can share their outfit choices with others.
+Estimate: 3 days
+Priority: 50
+13. Add Clothing to Favorites
+Description: A user can mark clothing items as favorites for easy access later.
+Estimate: 3 days
+Priority: 10
+14. Invite a Friend
+Description: A user can invite friends to join the platform.
+Estimate: 3 days
+Priority: 20
+15. Update Privacy Settings
+Description: A user can update their privacy settings to control who sees their information.
+Estimate: 4 days
+Priority: 30
+16. Add Items to Cart
+Description: A user can add clothing items to their shopping cart for purchase.
+Estimate: 2 days
+Priority: 20
+17. Create Poll for Outfit Choices
+Description: A user can create polls for friends to vote on outfit choices.
+Estimate: 3 days
+Priority: 30
+18. Participate in Community Events
+Description: A user can join and participate in events organized within the community.
+Estimate: 3 days
+Priority: 20
+
 
