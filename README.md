@@ -237,26 +237,6 @@ The selection of these user stories focuses on improvements to user experience t
 
 ---
 
-## Iteration 11: Feedback and Interaction
-**Change Event:** We prioritized critical user feedback mechanisms in the development cycle.
-
-**Developers:** 1  
-
-**Selected User Stories for Iteration 11:**
-
-- **Rate a Post**  
-  **Estimate:** 5 days  
-  **Priority:** 30  
-
-**Total Estimate:** 5 days  
-
-**Discussion of Changes:**  
-This iteration dedicates resources to refining the "Rate a Post" feature, crucial for user feedback and engagement. By focusing solely on this story, we ensure a high-quality implementation.
-
-**Effect:** A well-implemented rating feature can lead to valuable user feedback, improving overall content quality and user satisfaction.
-
----
-
 ## Iteration 12: Security Enhancements
 **Change Event:** We responded to user concerns regarding security and privacy settings.
 
@@ -281,7 +261,7 @@ This iteration focuses on critical security and shopping functionalities. Includ
 
 ---
 
-## Iteration 13: Social and Community Features
+## Iteration 12: Social and Community Features
 **Change Event:** We expanded user engagement through social features.
 
 **Developers:** 1  
