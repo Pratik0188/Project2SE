@@ -159,11 +159,12 @@ This focus on a single user story allowed us to ensure a high-quality implementa
 ---
 
 ## Iteration 6: Continuing Focus on User Interaction
+
 **Duration:** 2 weeks (14 calendar days)  
 **Working Days:** 10  
 **Developers:** 1  
 **Velocity:** 0.6  
-**Total Capacity:** 10 days × 1 developers × 0.6 velocity = 6 days  
+**Total Capacity:** 10 days × 1 developer × 0.6 velocity = 6 days  
 
 **Selected User Stories for Iteration 6:**
 
@@ -173,11 +174,14 @@ This focus on a single user story allowed us to ensure a high-quality implementa
 
 **Total Estimate:** 5 days  
 
+**Discussion of Plan:**  
+In this iteration, our plan is to deliver the **View a Closet** feature, which allows users to display their clothing collections. This functionality is essential for fostering community interactions and encouraging users to share their personal styles. By dedicating our resources to this single user story, we can ensure a high-quality implementation that aligns with user needs and enhances overall engagement.
+
 **Discussion of Changes:**  
-We concentrated on the "View a Closet" user story, enhancing the social aspect of the platform. This focus aligns perfectly with our capacity and aims to improve user engagement. Although the number of features delivered remains low, we maintain our emphasis on quality.
+We concentrated on the **View a Closet** user story, enhancing the social aspect of the platform. This focus aligns perfectly with our capacity and aims to improve user engagement. Although the number of features delivered remains low, we maintain our emphasis on quality.
 
-**Effect:** This single-focus approach deepens user connections and community aspects, potentially leading to increased time spent on the platform.
-
+**Effect:**  
+This single-focus approach deepens user connections and community aspects, potentially leading to increased time spent on the platform.
 ---
 
 ## Iteration 7: Expanding User Functionality
