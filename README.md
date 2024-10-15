@@ -66,30 +66,6 @@ We made a strategic pivot in this iteration to address pressing user concerns. T
   
 - **Community Safety and Well-being**: Content reporting promotes a positive experience, encouraging participation in a safe and integrity-focused platform.
 
----
-
-## Iteration 3: Increased Complexity in a User Story
-
-**Change Event:** We adjusted the user story **Rate a Post** from an initial estimate of 5 days to 10 days due to increased complexity.
-
-**Developers:** 2
-
-**Selected User Stories for Iteration 3:**
-
-- **Rate a Post**  
-  **Adjusted Estimate:** 10 days  
-  **Priority:** 30  
-
-**Total Estimate:** 10 days  
-
-**Discussion of Plan:** This iteration focuses on the Rate a Post feature to enhance user engagement and feedback. Dedicating our efforts here ensures a high-quality implementation.
-
-**Discussion of Changes:**  
-The increased complexity required us to dedicate the entire iteration to this story, ensuring a robust rating feature, but delaying other planned functionalities.
-
-**Effect:**  This focus improved the rating feature's quality, enhancing user feedback mechanisms, while postponing some functionalities to future iterations.
-
----
 
 ## Iteration 3: Increased Complexity in a User Story
 
