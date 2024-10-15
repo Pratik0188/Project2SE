@@ -69,9 +69,13 @@ We made a strategic pivot in this iteration to address pressing user concerns. T
 
 ## Iteration 3: Increased Complexity in a User Story
 
-**Change Event:** We adjusted the user story **Rate a Post** from an initial estimate of 5 days to 10 days due to increased complexity.
+**Duration:** 2 weeks (14 calendar days)  
+**Working Days:** 10  
+**Developers:** 2  
+**Velocity:** 0.6  
+**Total Capacity:** 10 days × 2 developers × 0.6 velocity = 12 days  
 
-**Developers:** 2
+**Change Event:** We adjusted the user story **Rate a Post** from an initial estimate of 5 days to 10 days due to increased complexity.
 
 **Selected User Stories for Iteration 3:**
 
@@ -82,22 +86,22 @@ We made a strategic pivot in this iteration to address pressing user concerns. T
 **Total Estimate:** 10 days  
 
 **Discussion of Plan:**  
-This iteration concentrates on the **Rate a Post** feature, a critical addition aimed at enhancing user engagement and providing valuable feedback mechanisms within the platform. By focusing our efforts exclusively on this user story, we are prioritizing a high-quality implementation that ensures the functionality meets user expectations and integrates seamlessly with the existing system. 
-
-The **Rate a Post** feature is essential as it allows users to express their opinions on content shared by others, fostering a more interactive and community-driven environment. User feedback is vital for the overall success of the application, as it not only helps in content moderation but also guides future improvements based on user preferences. This iteration is crucial in solidifying a key aspect of user interaction, ultimately contributing to higher user satisfaction and retention.
+This iteration concentrates on the **Rate a Post** feature, a critical addition aimed at enhancing user engagement and providing valuable feedback mechanisms within the platform. By focusing our efforts exclusively on this user story, we are prioritizing a high-quality implementation that ensures the functionality meets user expectations and integrates seamlessly with the existing system. The **Rate a Post** feature is essential as it allows users to express their opinions on content shared by others, fostering a more interactive and community-driven environment. User feedback is vital for the overall success of the application, as it not only helps in content moderation but also guides future improvements based on user preferences. This iteration is crucial in solidifying a key aspect of user interaction, ultimately contributing to higher user satisfaction and retention.
 
 **Discussion of Changes:**  
-The decision to adjust the estimate for the **Rate a Post** feature from 5 days to 10 days was driven by a deeper understanding of the technical requirements involved. The complexity of implementing a robust rating system—considering aspects such as user authentication, data storage, and real-time updates—necessitated dedicating the entire iteration to this single user story. This focus will ensure that the rating feature is not only functional but also user-friendly, offering a smooth experience for users when providing feedback.
-
-While this decision does mean postponing other planned functionalities, such as adding new content sharing features, it ultimately strengthens the core user experience. Ensuring that users have a reliable and intuitive way to rate posts sets a solid foundation for future interactions and features.
+The decision to adjust the estimate for the **Rate a Post** feature from 5 days to 10 days was driven by a deeper understanding of the technical requirements involved. The complexity of implementing a robust rating system—considering aspects such as user authentication, data storage, and real-time updates—necessitated dedicating the entire iteration to this single user story. This focus will ensure that the rating feature is not only functional but also user-friendly, offering a smooth experience for users when providing feedback. While this decision does mean postponing other planned functionalities, such as adding new content sharing features, it ultimately strengthens the core user experience. Ensuring that users have a reliable and intuitive way to rate posts sets a solid foundation for future interactions and features.
 
 **Effect:**  
-By concentrating our efforts on refining the **Rate a Post** feature, we have significantly improved the quality of user feedback mechanisms within the application. This prioritization enhances the overall user experience, encouraging users to engage more actively with the content and each other. 
-
-Although this focus results in the postponement of other functionalities to future iterations, it positions the project for long-term success by ensuring that essential features are well-implemented and effectively address user needs. Future iterations can then build upon this solid foundation, incorporating the delayed functionalities with a better understanding of user feedback dynamics.
+By concentrating our efforts on refining the **Rate a Post** feature, we have significantly improved the quality of user feedback mechanisms within the application. This prioritization enhances the overall user experience, encouraging users to engage more actively with the content and each other. Although this focus results in the postponement of other functionalities to future iterations, it positions the project for long-term success by ensuring that essential features are well-implemented and effectively address user needs. Future iterations can then build upon this solid foundation, incorporating the delayed functionalities with a better understanding of user feedback dynamics.
 
 ---
 ## Iteration 4: Impact of Developer Departure
+
+Duration: 2 weeks (14 calendar days)
+Working Days: 10
+Developers: 2
+Velocity: 0.6
+Total Capacity: 10 days × 2 developers × 0.6 velocity = 12 days
 
 **Change Event:** The departure of a developer reduced our team capacity, impacting our project timelines and deliverables.
 
@@ -113,18 +117,18 @@ Although this focus results in the postponement of other functionalities to futu
   **Estimate:** 5 days  
   **Priority:** 40  
 
-**Total Estimate:** 8 days  
+**Total Estimate:** 5 days  
 
 **Discussion of Changes:**  
-In light of the recent departure of a developer, our team faced a significant reduction in capacity, prompting a reevaluation of our project priorities. With only one developer available for this iteration, we had to focus on the most essential functionalities that align with our user engagement goals. 
+In light of the recent departure of a developer, our team faced a significant reduction in capacity, prompting a reevaluation of our project priorities. With only one developer available for this iteration, we had to focus on the most essential functionality that aligns with our user engagement goals. 
 
-The selected user story for this iteration, **Comment on a Post**, is prioritized for its role in enhancing user interaction and fostering a sense of community within the platform. Despite the reduced velocity, we recognized the importance of maintaining user engagement through this key feature. Allowing users to comment on posts not only facilitates communication but also encourages discussions among community members, which is vital for user retention.
+The selected user story for this iteration, **Comment on a Post**, is prioritized for its critical role in enhancing user interaction and fostering a sense of community within the platform. Despite the reduced velocity, we recognized the importance of maintaining user engagement through this key feature. Allowing users to comment on posts facilitates communication and encourages discussions among community members, which is vital for user retention.
 
 **Effect:**  
-While our reduced capacity limited the number of features we could develop in this iteration, focusing on critical user interactions proved to be a strategic decision. The ability for users to comment on posts significantly enhances engagement, as it encourages users to express their opinions and interact with others' content. 
+While our reduced capacity limited the number of features we could develop in this iteration, focusing solely on this critical user interaction proved to be a strategic decision. The ability for users to comment on posts significantly enhances engagement, as it encourages users to express their opinions and interact with others' content. 
 
-In conclusion, although the reduced capacity meant that we could not address as many user stories as in previous iterations, the decision to focus on essential interactions was instrumental in maintaining user engagement and supporting community building. Future iterations will have the opportunity to expand on these foundational features as the team capacity improves.
----
+In conclusion, although the reduced capacity meant that we could not address additional user stories in this iteration, the decision to concentrate on the **Comment on a Post** feature was instrumental in maintaining user engagement and supporting community building. Future iterations will have the opportunity to expand on these foundational features as the team capacity improves.
+
 
 
 ## Iteration 5: Capacity Limitations
