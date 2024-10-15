@@ -132,7 +132,7 @@ In conclusion, although the reduced capacity meant that we could not address add
 ## Iteration 5: Capacity Limitations
 **Duration:** 2 weeks (14 calendar days)  
 **Working Days:** 10  
-**Developers:** 2  
+**Developers:** 1  
 **Velocity:** 0.6  
 **Total Capacity:** 10 days × 1 developers × 0.6 velocity = 6 days  
 **Change Event:** We maintained our capacity at 6 days due to the continued reduced team size.
