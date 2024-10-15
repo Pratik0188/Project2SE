@@ -99,12 +99,13 @@ Although this focus results in the postponement of other functionalities to futu
 ---
 ## Iteration 4: Impact of Developer Departure
 
-**Change Event:** The departure of a developer reduced our team capacity.
+**Change Event:** The departure of a developer reduced our team capacity, impacting our project timelines and deliverables.
 
-**Developers:** 1  
+**Developers:** 1
 
 **Adjusted Capacity:**
-- **Total Capacity:** 10 days × 0.6 = 6 days  
+
+- **Total Capacity:** 10 days × 0.6 velocity = 6 days
 
 **Selected User Stories for Iteration 4:**
 
@@ -119,9 +120,16 @@ Although this focus results in the postponement of other functionalities to futu
 **Total Estimate:** 8 days  
 
 **Discussion of Changes:**  
-With our reduced team capacity, we prioritized essential functionalities. We focused on user stories that enhance user interaction and community building despite the lower velocity.
+In light of the recent departure of a developer, our team faced a significant reduction in capacity, prompting a reevaluation of our project priorities. With only one developer available for this iteration, we had to focus on the most essential functionalities that align with our user engagement goals. 
 
-**Effect:** While our reduced capacity limited the number of features developed, we addressed critical interactions, which helped maintain user engagement.
+The selected user stories for this iteration, **Comment on a Post** and **Find a Community**, were prioritized for their roles in enhancing user interaction and fostering a sense of community within the platform. Despite the reduced velocity, we recognized the importance of maintaining user engagement through these key features. Allowing users to comment on posts not only facilitates communication but also encourages discussions among community members, which is vital for user retention.
+
+**Effect:**  
+While our reduced capacity limited the number of features we could develop in this iteration, focusing on critical user interactions proved to be a strategic decision. The ability for users to comment on posts significantly enhances engagement, as it encourages users to express their opinions and interact with others' content. 
+
+Similarly, the **Find a Community** feature addresses users' needs to connect with like-minded individuals, enhancing the overall community aspect of the platform. By prioritizing these functionalities, we ensured that even with a limited development capacity, we continued to provide value to our users, helping to sustain their interest in the platform.
+
+In conclusion, although the reduced capacity meant that we could not address as many user stories as in previous iterations, the decision to focus on these essential interactions was instrumental in maintaining user engagement and supporting community building. Future iterations will have the opportunity to expand on these foundational features as the team capacity improves.
 
 ---
 
