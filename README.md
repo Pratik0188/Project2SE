@@ -119,11 +119,11 @@ By concentrating our efforts on refining the **Rate a Post** feature, we have si
 
 **Total Estimate:** 5 days  
 
-**Discussion of Changes:**  
-In light of the recent departure of a developer, our team faced a significant reduction in capacity, prompting a reevaluation of our project priorities. With only one developer available for this iteration, we had to focus on the most essential functionality that aligns with our user engagement goals. The selected user story for this iteration, **Comment on a Post**, is prioritized for its critical role in enhancing user interaction and fostering a sense of community within the platform. Despite the reduced velocity, we recognized the importance of maintaining user engagement through this key feature. Allowing users to comment on posts facilitates communication and encourages discussions among community members, which is vital for user retention.
-
 **Discussion of the Plan:**  
 Given the limited capacity due to the developer departure, the primary objective for this iteration is to deliver a high-impact feature that can enhance user experience and engagement. The plan emphasizes a user-centric approach by prioritizing the **Comment on a Post** feature, as it enables meaningful interaction among users. The iterative development process will allow for ongoing feedback from users, ensuring that the feature evolves based on real needs. With one developer, resource allocation will be strategic, breaking down tasks to maintain focus and momentum while facilitating efficient progress. Rigorous testing and quality assurance will be prioritized to ensure a seamless user experience. This plan, while centered on a single user story, sets the groundwork for future iterations, as the feedback from this feature will inform subsequent developments and enhancements.
+
+**Discussion of Changes:**  
+In light of the recent departure of a developer, our team faced a significant reduction in capacity, prompting a reevaluation of our project priorities. With only one developer available for this iteration, we had to focus on the most essential functionality that aligns with our user engagement goals. The selected user story for this iteration, **Comment on a Post**, is prioritized for its critical role in enhancing user interaction and fostering a sense of community within the platform. Despite the reduced velocity, we recognized the importance of maintaining user engagement through this key feature. Allowing users to comment on posts facilitates communication and encourages discussions among community members, which is vital for user retention.
 
 **Effect:**  
 While our reduced capacity limited the number of features we could develop in this iteration, focusing solely on this critical user interaction proved to be a strategic decision. The ability for users to comment on posts significantly enhances engagement, as it encourages users to express their opinions and interact with others' content. 
