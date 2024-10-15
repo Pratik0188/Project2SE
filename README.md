@@ -383,10 +383,6 @@ This iteration emphasizes user interaction through comments, fostering community
   - **Estimate:** 3 days  
   - **Priority:** 20
  
-- **Rate a Post**
-  - **Description:** A user can rate posts on the platform to provide feedback on content they find helpful or interesting.
-  - **Estimate:** 5 days
-  - **Priority:** 30
 
 - **Update Privacy Settings**  
   - **Description:** A user will be able to adjust their privacy settings for better control over their data.  
