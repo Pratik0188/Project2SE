@@ -54,21 +54,17 @@ This iteration focuses on foundational functionalities essential for user engage
 **Total Estimate:** 10 days  
 
 ## Discussion of the Plan:  
-In this iteration, we aim to enhance user safety and engagement by introducing critical communication features. The selection of user stories was guided by recent user feedback indicating a need for direct communication and content moderation tools. By implementing **Send a Direct Message**, we empower users to reach out to one another quickly in emergency situations, fostering a sense of community and support. The **Report Inappropriate Content** feature addresses the need for a safer online environment, allowing users to flag any inappropriate behavior, thereby promoting a healthier community dynamic. This iteration aligns with our project goals of enhancing user experience while ensuring their safety.
+In this iteration, we enhance user safety and engagement by introducing key communication features based on user feedback. Send a Direct Message allows quick communication in emergencies, while Report Inappropriate Content enables users to flag harmful behavior, promoting a safer community.
 
 ## Discussion of Changes:  
 We made a strategic pivot in this iteration to address pressing user concerns. The inclusion of **Send a Direct Message** was driven by feedback highlighting the importance of immediate communication options. Additionally, the **Report Inappropriate Content** feature was introduced to create a more secure platform where users feel comfortable engaging with the community. 
 
-These changes not only respond to user needs but also reflect our commitment to maintaining an adaptable development process that prioritizes user feedback and safety.
-
 ## Effects of the Changes:  
-- **User Trust Enhancement**: By prioritizing features that enhance communication and safety, we bolster user trust. When users know they can easily report issues or reach out in emergencies, their confidence in the platform increases.
+- **User Trust Enhancement**: Prioritizing communication and safety features boosts user trust, as they can easily report issues or reach out in emergencies.
   
-- **Increased Engagement**: Implementing these features is likely to lead to higher engagement levels as users feel more empowered to interact safely. They can share their experiences and concerns, which may foster a stronger community.
-
-- **Community Safety and Well-being**: The introduction of content reporting mechanisms contributes to a more positive user experience. Users are more inclined to participate in a platform that actively works to maintain safety and integrity, reducing the likelihood of harmful interactions.
-
-By addressing these critical areas, we anticipate not only meeting immediate user needs but also laying the groundwork for a more robust and engaged community moving forward.
+- **Increased Engagement**: These features empower users to interact safely, fostering a stronger community and higher engagement.
+  
+- **Community Safety and Well-being**: Content reporting promotes a positive experience, encouraging participation in a safe and integrity-focused platform.
 
 ---
 
