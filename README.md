@@ -133,6 +133,7 @@ In conclusion, although the reduced capacity meant that we could not address add
 ---
 
 ## Iteration 5: Capacity Limitations
+
 **Change Event:** We maintained our capacity at 6 days due to the continued reduced team size.
 
 **Developers:** 1  
@@ -145,10 +146,14 @@ In conclusion, although the reduced capacity meant that we could not address add
 
 **Total Estimate:** 5 days  
 
-**Discussion of Changes:**  
-This iteration focuses solely on the "Create a Group" user story, which is essential for fostering user interactions. While this limits the scope of features delivered, we ensure a robust implementation that aligns with user needs and enhances engagement.
+**Discussion of Plan:**  
+The plan for this iteration emphasizes quality over quantity, reflecting our current capacity constraints. By concentrating our efforts on the **Create a Group** user story, we aim to create a feature that not only meets functional requirements but also enhances the overall user experience. This decision allows us to engage users more deeply by providing them with tools to interact and collaborate, fostering a sense of belonging within the community. Although the scope of deliverables is limited, focusing on a single user story enables thorough testing and refinement, ensuring that we deliver a feature that users will appreciate and utilize actively.
 
-**Effect:** This focus on a single user story allowed us to ensure a high-quality implementation, which could lead to increased user satisfaction and retention.
+**Discussion of Changes:**  
+This iteration focuses solely on the **Create a Group** user story, which is essential for fostering user interactions. While this limits the scope of features delivered, we are committed to ensuring a robust implementation that aligns with user needs and enhances engagement. The decision to concentrate on this user story allows us to allocate our limited resources effectively, ensuring that we meet quality standards and address user expectations. This targeted approach enables us to fine-tune the feature based on user feedback, creating a more satisfying experience.
+
+**Effect:**  
+This focus on a single user story allowed us to ensure a high-quality implementation, which could lead to increased user satisfaction and retention. By concentrating our efforts on the **Create a Group** feature, we aim to strengthen community bonds and encourage users to engage with the platform more meaningfully, which is crucial for the platform's growth and sustainability.
 
 ---
 
