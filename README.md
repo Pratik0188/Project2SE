@@ -113,25 +113,19 @@ Although this focus results in the postponement of other functionalities to futu
   **Estimate:** 5 days  
   **Priority:** 40  
 
-- **Find a Community**  
-  **Estimate:** 3 days  
-  **Priority:** 50  
-
 **Total Estimate:** 8 days  
 
 **Discussion of Changes:**  
 In light of the recent departure of a developer, our team faced a significant reduction in capacity, prompting a reevaluation of our project priorities. With only one developer available for this iteration, we had to focus on the most essential functionalities that align with our user engagement goals. 
 
-The selected user stories for this iteration, **Comment on a Post** and **Find a Community**, were prioritized for their roles in enhancing user interaction and fostering a sense of community within the platform. Despite the reduced velocity, we recognized the importance of maintaining user engagement through these key features. Allowing users to comment on posts not only facilitates communication but also encourages discussions among community members, which is vital for user retention.
+The selected user story for this iteration, **Comment on a Post**, is prioritized for its role in enhancing user interaction and fostering a sense of community within the platform. Despite the reduced velocity, we recognized the importance of maintaining user engagement through this key feature. Allowing users to comment on posts not only facilitates communication but also encourages discussions among community members, which is vital for user retention.
 
 **Effect:**  
 While our reduced capacity limited the number of features we could develop in this iteration, focusing on critical user interactions proved to be a strategic decision. The ability for users to comment on posts significantly enhances engagement, as it encourages users to express their opinions and interact with others' content. 
 
-Similarly, the **Find a Community** feature addresses users' needs to connect with like-minded individuals, enhancing the overall community aspect of the platform. By prioritizing these functionalities, we ensured that even with a limited development capacity, we continued to provide value to our users, helping to sustain their interest in the platform.
-
-In conclusion, although the reduced capacity meant that we could not address as many user stories as in previous iterations, the decision to focus on these essential interactions was instrumental in maintaining user engagement and supporting community building. Future iterations will have the opportunity to expand on these foundational features as the team capacity improves.
-
+In conclusion, although the reduced capacity meant that we could not address as many user stories as in previous iterations, the decision to focus on essential interactions was instrumental in maintaining user engagement and supporting community building. Future iterations will have the opportunity to expand on these foundational features as the team capacity improves.
 ---
+
 
 ## Iteration 5: Capacity Limitations
 **Change Event:** We maintained our capacity at 6 days due to the continued reduced team size.
