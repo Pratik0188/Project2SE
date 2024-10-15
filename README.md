@@ -427,11 +427,6 @@ Implementing the ability to post comments is expected to significantly enhance u
   - **Estimate:** 5 days  
   - **Priority:** 10  
 
-- **Edit Profile Picture**  
-  - **Description:** A user can update their profile picture to personalize their account.  
-  - **Estimate:** 3 days  
-  - **Priority:** 10  
-
 - **Share an Outfit**  
   - **Description:** A user can share their outfit choices with the community.  
   - **Estimate:** 3 days  
@@ -446,7 +441,6 @@ Implementing the ability to post comments is expected to significantly enhance u
   - **Description:** A user can invite friends to join the platform and share clothing styles.  
   - **Estimate:** 3 days  
   - **Priority:** 20
- 
 
 - **Update Privacy Settings**  
   - **Description:** A user will be able to adjust their privacy settings for better control over their data.  
