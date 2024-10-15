@@ -182,7 +182,7 @@ In this iteration, our plan is to deliver the **View a Closet** feature, which a
 We concentrated on the **View a Closet** user story, enhancing the social aspect of the platform. This focus aligns perfectly with our capacity and aims to improve user engagement. Although the number of features delivered remains low, we maintain our emphasis on quality.
 
 **Effect:**  
-This single-focus approach deepens user connections and community aspects, potentially leading to increased time spent on the platform.
+This single-focus approach deepens user connections and community aspects, potentially leading to increased time spent on the platform. By encouraging users to showcase their collections, we aim to foster a more vibrant and interactive user community, ultimately contributing to user retention and satisfaction.
 ---
 
 ## Iteration 7: Expanding User Functionality
