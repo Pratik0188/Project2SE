@@ -41,7 +41,7 @@ This iteration focuses on foundational functionalities essential for user engage
 **Velocity:** 0.6  
 **Total Capacity:** 10 days × 2 developers × 0.6 velocity = 12 days 
 
-## Selected User Stories for Iteration 2:
+**Selected User Stories for Iteration 2:**
 
 1. **Send a Direct Message (Emergency)**  
    - **Estimate:** 5 days  
