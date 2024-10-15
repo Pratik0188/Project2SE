@@ -33,31 +33,6 @@ This iteration plan prioritizes foundational functionalities essential for user 
 
 ---
 
-## Iteration 1: Initial Iteration Plan
-
-**Duration:** 2 weeks (14 calendar days)  
-**Working Days:** 10  
-**Developers:** 2  
-**Velocity:** 0.6  
-**Total Capacity:** 10 days × 2 developers × 0.6 velocity = 12 days  
-
-**Selected User Stories:**
-
-- **Upload a Video**  
-  **Estimate:** 8 days  
-  **Priority:** 10  
-
-- **Preview Outfit**  
-  **Estimate:** 2 days  
-  **Priority:** 20  
-
-**Total Estimate:** 10 days  
-
-**Discussion of the Plan:**  
-This iteration plan prioritizes foundational functionalities essential for user engagement. The selection of user stories is guided by their alignment with user needs and overall project goals, ensuring that the features developed provide immediate value. The selected user stories—'Upload a Video' and 'Preview Outfit'—are intentionally chosen based on their alignment with user needs and the overarching goals of the project. This alignment is significant as it ensures that the functionalities being developed are not only relevant but also address the immediate requirements of the target audience.
-
----
-
 # Iteration 2: Adjustment with New User Stories
 
 **Duration:** 2 weeks (14 calendar days)  
