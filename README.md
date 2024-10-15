@@ -243,6 +243,7 @@ Implementing the **Purchase Clothing** feature is expected to significantly driv
 ---
 
 ## Iteration 9: Enhancing User Engagement
+
 **Duration:** 2 weeks (14 calendar days)  
 **Working Days:** 10  
 **Developers:** 1  
@@ -263,14 +264,13 @@ Implementing the **Purchase Clothing** feature is expected to significantly driv
 **Total Estimate:** 6 days  
 
 **Discussion of Plan:**  
-In this iteration, we aim to enhance user engagement by implementing features that allow for greater personalization and sharing capabilities. The **Edit Profile Picture** feature enables users to express their identity visually, fostering a stronger connection to their profiles. Meanwhile, the **Share an Outfit** feature encourages users to showcase their style, facilitating interactions with others in the community. By focusing on these user stories, we aim to create a more dynamic platform that resonates with user interests and encourages participation.
+In this iteration, we aim to enhance user engagement by implementing features that facilitate greater personalization and sharing capabilities. The **Join Community** feature encourages users to connect with like-minded individuals, fostering a sense of belonging and collaboration. Simultaneously, the **Share an Outfit** feature allows users to showcase their style, facilitating interactions with others in the community. By focusing on these user stories, we intend to create a more dynamic platform that resonates with user interests and promotes participation.
 
 **Discussion of Changes:**  
-The decision to prioritize these social features stems from direct user feedback, which highlighted the desire for more ways to personalize profiles and interact with others. By incorporating the ability to edit profile pictures and share outfits, we address users' needs for self-expression and community engagement. This strategic shift allows us to strengthen the social fabric of the platform, fostering a vibrant user community.
+The decision to prioritize these social features is a direct response to user feedback, which highlighted the desire for increased community interaction and connectivity. By enabling users to join communities, we address their needs for belonging and collaboration. Additionally, the ability to share outfits encourages users to express their unique styles and engage with others. This strategic shift not only strengthens the social fabric of the platform but also enhances user satisfaction.
 
 **Effect:**  
-Implementing these features is expected to significantly boost user interaction and satisfaction. The ability to edit profile pictures enhances personal identity within the community, while sharing outfits promotes engagement and conversations among users. Overall, these enhancements will likely lead to increased retention and a more active user base, contributing positively to the platform's growth.
-
+The implementation of these features is expected to significantly increase user interaction and satisfaction. Allowing users to join communities will foster deeper connections among members, while sharing outfits will stimulate engagement and conversations. Together, these enhancements will likely lead to higher retention rates and a more active user base, ultimately contributing positively to the platform's growth.
 
 ---
 
