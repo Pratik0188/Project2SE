@@ -91,6 +91,36 @@ The increased complexity required us to dedicate the entire iteration to this st
 
 ---
 
+## Iteration 3: Increased Complexity in a User Story
+
+**Change Event:** We adjusted the user story **Rate a Post** from an initial estimate of 5 days to 10 days due to increased complexity.
+
+**Developers:** 2
+
+**Selected User Stories for Iteration 3:**
+
+- **Rate a Post**  
+  **Adjusted Estimate:** 10 days  
+  **Priority:** 30  
+
+**Total Estimate:** 10 days  
+
+**Discussion of Plan:**  
+This iteration concentrates on the **Rate a Post** feature, a critical addition aimed at enhancing user engagement and providing valuable feedback mechanisms within the platform. By focusing our efforts exclusively on this user story, we are prioritizing a high-quality implementation that ensures the functionality meets user expectations and integrates seamlessly with the existing system. 
+
+The **Rate a Post** feature is essential as it allows users to express their opinions on content shared by others, fostering a more interactive and community-driven environment. User feedback is vital for the overall success of the application, as it not only helps in content moderation but also guides future improvements based on user preferences. This iteration is crucial in solidifying a key aspect of user interaction, ultimately contributing to higher user satisfaction and retention.
+
+**Discussion of Changes:**  
+The decision to adjust the estimate for the **Rate a Post** feature from 5 days to 10 days was driven by a deeper understanding of the technical requirements involved. The complexity of implementing a robust rating system—considering aspects such as user authentication, data storage, and real-time updates—necessitated dedicating the entire iteration to this single user story. This focus will ensure that the rating feature is not only functional but also user-friendly, offering a smooth experience for users when providing feedback.
+
+While this decision does mean postponing other planned functionalities, such as adding new content sharing features, it ultimately strengthens the core user experience. Ensuring that users have a reliable and intuitive way to rate posts sets a solid foundation for future interactions and features.
+
+**Effect:**  
+By concentrating our efforts on refining the **Rate a Post** feature, we have significantly improved the quality of user feedback mechanisms within the application. This prioritization enhances the overall user experience, encouraging users to engage more actively with the content and each other. 
+
+Although this focus results in the postponement of other functionalities to future iterations, it positions the project for long-term success by ensuring that essential features are well-implemented and effectively address user needs. Future iterations can then build upon this solid foundation, incorporating the delayed functionalities with a better understanding of user feedback dynamics.
+
+---
 ## Iteration 4: Impact of Developer Departure
 
 **Change Event:** The departure of a developer reduced our team capacity.
