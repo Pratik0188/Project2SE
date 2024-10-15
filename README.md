@@ -252,7 +252,7 @@ Implementing the **Purchase Clothing** feature is expected to significantly driv
 
 **Selected User Stories for Iteration 9:**
 
-- **Edit Profile Picture**  
+- **Join Community**  
   **Estimate:** 3 days  
   **Priority:** 10  
 
