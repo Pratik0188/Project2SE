@@ -95,21 +95,21 @@ The decision to adjust the estimate for the **Rate a Post** feature from 5 days 
 By concentrating our efforts on refining the **Rate a Post** feature, we have significantly improved the quality of user feedback mechanisms within the application. This prioritization enhances the overall user experience, encouraging users to engage more actively with the content and each other. Although this focus results in the postponement of other functionalities to future iterations, it positions the project for long-term success by ensuring that essential features are well-implemented and effectively address user needs. Future iterations can then build upon this solid foundation, incorporating the delayed functionalities with a better understanding of user feedback dynamics.
 
 ---
+
 ## Iteration 4: Impact of Developer Departure
 
-Duration: 2 weeks (14 calendar days)
-Working Days: 10
-Developers: 2
-Velocity: 0.6
-Total Capacity: 10 days × 2 developers × 0.6 velocity = 12 days
+**Duration:** 2 weeks (14 calendar days)  
+**Working Days:** 10  
+**Developers:** 2  
+**Velocity:** 0.6  
+**Total Capacity:** 10 days × 2 developers × 0.6 velocity = 12 days  
 
 **Change Event:** The departure of a developer reduced our team capacity, impacting our project timelines and deliverables.
 
-**Developers:** 1
-
 **Adjusted Capacity:**
 
-- **Total Capacity:** 10 days × 0.6 velocity = 6 days
+- **Developers:** 1  
+- **Total Capacity:** 10 days × 0.6 velocity = 6 days  
 
 **Selected User Stories for Iteration 4:**
 
@@ -120,16 +120,17 @@ Total Capacity: 10 days × 2 developers × 0.6 velocity = 12 days
 **Total Estimate:** 5 days  
 
 **Discussion of Changes:**  
-In light of the recent departure of a developer, our team faced a significant reduction in capacity, prompting a reevaluation of our project priorities. With only one developer available for this iteration, we had to focus on the most essential functionality that aligns with our user engagement goals. 
+In light of the recent departure of a developer, our team faced a significant reduction in capacity, prompting a reevaluation of our project priorities. With only one developer available for this iteration, we had to focus on the most essential functionality that aligns with our user engagement goals. The selected user story for this iteration, **Comment on a Post**, is prioritized for its critical role in enhancing user interaction and fostering a sense of community within the platform. Despite the reduced velocity, we recognized the importance of maintaining user engagement through this key feature. Allowing users to comment on posts facilitates communication and encourages discussions among community members, which is vital for user retention.
 
-The selected user story for this iteration, **Comment on a Post**, is prioritized for its critical role in enhancing user interaction and fostering a sense of community within the platform. Despite the reduced velocity, we recognized the importance of maintaining user engagement through this key feature. Allowing users to comment on posts facilitates communication and encourages discussions among community members, which is vital for user retention.
+**Discussion of the Plan:**  
+Given the limited capacity due to the developer departure, the primary objective for this iteration is to deliver a high-impact feature that can enhance user experience and engagement. The plan emphasizes a user-centric approach by prioritizing the **Comment on a Post** feature, as it enables meaningful interaction among users. The iterative development process will allow for ongoing feedback from users, ensuring that the feature evolves based on real needs. With one developer, resource allocation will be strategic, breaking down tasks to maintain focus and momentum while facilitating efficient progress. Rigorous testing and quality assurance will be prioritized to ensure a seamless user experience. This plan, while centered on a single user story, sets the groundwork for future iterations, as the feedback from this feature will inform subsequent developments and enhancements.
 
 **Effect:**  
 While our reduced capacity limited the number of features we could develop in this iteration, focusing solely on this critical user interaction proved to be a strategic decision. The ability for users to comment on posts significantly enhances engagement, as it encourages users to express their opinions and interact with others' content. 
 
 In conclusion, although the reduced capacity meant that we could not address additional user stories in this iteration, the decision to concentrate on the **Comment on a Post** feature was instrumental in maintaining user engagement and supporting community building. Future iterations will have the opportunity to expand on these foundational features as the team capacity improves.
 
-
+---
 
 ## Iteration 5: Capacity Limitations
 **Change Event:** We maintained our capacity at 6 days due to the continued reduced team size.
