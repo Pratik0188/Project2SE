@@ -29,7 +29,7 @@
 **Total Estimate:** 10 days  
 
 **Discussion of the Plan:**  
-This iteration plan prioritizes foundational functionalities essential for user engagement. The selection of user stories is guided by their alignment with user needs and overall project goals, ensuring that the features developed provide immediate value. 
+This iteration plan prioritizes foundational functionalities essential for user engagement. The selection of user stories is guided by their alignment with user needs and overall project goals, ensuring that the features developed provide immediate value. The selected user stories—'Upload a Video' and 'Preview Outfit'—are intentionally chosen based on their alignment with user needs and the overarching goals of the project. This alignment is significant as it ensures that the functionalities being developed are not only relevant but also address the immediate requirements of the target audience.
 
 ---
 
