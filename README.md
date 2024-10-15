@@ -97,9 +97,9 @@ By concentrating our efforts on refining the **Rate a Post** feature, we have si
 ## Iteration 4: Impact of Developer Departure
 **Duration:** 2 weeks (14 calendar days)  
 **Working Days:** 10  
-**Developers:** 2  
+**Developers:** 1
 **Velocity:** 0.6  
-**Total Capacity:** 10 days × 2 developers × 0.6 velocity = 12 days  
+**Total Capacity:** 10 days × 1 developers × 0.6 velocity = 6 days  
 
 **Change Event:** The departure of a developer reduced our team capacity, impacting our project timelines and deliverables.
 
