@@ -183,9 +183,11 @@ We concentrated on the **View a Closet** user story, enhancing the social aspect
 
 **Effect:**  
 This single-focus approach deepens user connections and community aspects, potentially leading to increased time spent on the platform. By encouraging users to showcase their collections, we aim to foster a more vibrant and interactive user community, ultimately contributing to user retention and satisfaction.
+
 ---
 
 ## Iteration 7: Expanding User Functionality
+
 **Change Event:** We re-evaluated and added new user stories based on user feedback.
 
 **Developers:** 1  
@@ -202,10 +204,14 @@ This single-focus approach deepens user connections and community aspects, poten
 
 **Total Estimate:** 6 days  
 
-**Discussion of Changes:**  
-Both stories in this iteration enhance user functionality and community interaction. Their selection aligns with user feedback and project goals, ensuring that we develop essential features efficiently within our limited capacity.
+**Discussion of Plan:**  
+For this iteration, our plan is to enhance user functionality by implementing the **Join a Community** and **Search with Filter** features. These additions are aimed at improving user interactions within the platform and aligning closely with the feedback we received from our users. By focusing on these key functionalities, we intend to foster a more connected community while making it easier for users to navigate the content available to them.
 
-**Effect:** Enhancing community features likely improved user engagement and satisfaction, effectively addressing demands from the user base.
+**Discussion of Changes:**  
+In this iteration, we strategically selected user stories that directly respond to valuable user feedback. The **Join a Community** feature fosters a sense of belonging among users, while the **Search with Filter** functionality streamlines content discovery, allowing users to find relevant communities and posts more easily. By focusing on these enhancements, we are ensuring that we not only meet current user needs but also strengthen the platform's overall appeal. This careful alignment with user feedback ensures that our limited development capacity is utilized effectively, maximizing the impact of each feature delivered.
+
+**Effect:**  
+The introduction of these community-focused features is expected to significantly boost user engagement and satisfaction. By enabling users to easily connect with like-minded individuals and efficiently search for content, we enhance their overall experience on the platform. This could lead to increased activity levels, greater user retention, and a stronger community dynamic, ultimately addressing the growing demands and expectations of our user base.
 
 ---
 
