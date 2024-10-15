@@ -237,7 +237,7 @@ The selection of these user stories focuses on improvements to user experience t
 
 ---
 
-## Iteration 12: Security Enhancements
+## Iteration 11: Security Enhancements
 **Change Event:** We responded to user concerns regarding security and privacy settings.
 
 **Developers:** 1  
