@@ -33,8 +33,7 @@ This iteration plan prioritizes foundational functionalities essential for user 
 
 ---
 
-# Iteration 2: Adjustment with New User Stories
-
+## Iteration 2: Adjustment with New User Stories
 **Duration:** 2 weeks (14 calendar days)  
 **Working Days:** 10  
 **Developers:** 2  
