@@ -53,13 +53,13 @@ This iteration focuses on foundational functionalities essential for user engage
 
 **Total Estimate:** 10 days  
 
-## Discussion of the Plan:  
+**Discussion of the Plan:**  
 In this iteration, we enhance user safety and engagement by introducing key communication features based on user feedback. Send a Direct Message allows quick communication in emergencies, while Report Inappropriate Content enables users to flag harmful behavior, promoting a safer community.
 
-## Discussion of Changes:  
+**Discussion of Changes:**  
 We made a strategic pivot in this iteration to address pressing user concerns. The inclusion of **Send a Direct Message** was driven by feedback highlighting the importance of immediate communication options. Additionally, the **Report Inappropriate Content** feature was introduced to create a more secure platform where users feel comfortable engaging with the community. 
 
-## Effects of the Changes:  
+**Effects of the Changes:**  
 - **User Trust Enhancement**: Prioritizing communication and safety features boosts user trust, as they can easily report issues or reach out in emergencies.
   
 - **Increased Engagement**: These features empower users to interact safely, fostering a stronger community and higher engagement.
