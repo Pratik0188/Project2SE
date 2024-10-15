@@ -82,10 +82,12 @@ We made a strategic pivot in this iteration to address pressing user concerns. T
 
 **Total Estimate:** 10 days  
 
-**Discussion of Changes:**  
-The unforeseen increase in time for this story required us to dedicate the entire iteration to it. This change allowed us to focus on the quality and robustness of the rating feature, though it also delayed the implementation of other planned functionalities.
+**Discussion of Plan:** This iteration focuses on the Rate a Post feature to enhance user engagement and feedback. Dedicating our efforts here ensures a high-quality implementation.
 
-**Effect:** This decision ensured we implemented a well-structured rating feature that enhanced user feedback mechanisms but meant that some other functionalities had to be postponed to future iterations.
+**Discussion of Changes:**  
+The increased complexity required us to dedicate the entire iteration to this story, ensuring a robust rating feature, but delaying other planned functionalities.
+
+**Effect:**  This focus improved the rating feature's quality, enhancing user feedback mechanisms, while postponing some functionalities to future iterations.
 
 ---
 
