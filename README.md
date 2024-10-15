@@ -130,7 +130,11 @@ In conclusion, although the reduced capacity meant that we could not address add
 ---
 
 ## Iteration 5: Capacity Limitations
-
+**Duration:** 2 weeks (14 calendar days)  
+**Working Days:** 10  
+**Developers:** 2  
+**Velocity:** 0.6  
+**Total Capacity:** 10 days × 2 developers × 0.6 velocity = 12 days  
 **Change Event:** We maintained our capacity at 6 days due to the continued reduced team size.
 
 **Developers:** 1  
@@ -155,9 +159,11 @@ This focus on a single user story allowed us to ensure a high-quality implementa
 ---
 
 ## Iteration 6: Continuing Focus on User Interaction
-**Capacity:**
-- **Developers:** 1  
-- **Total Capacity:** 10 days × 0.6 = 6 days  
+**Duration:** 2 weeks (14 calendar days)  
+**Working Days:** 10  
+**Developers:** 1  
+**Velocity:** 0.6  
+**Total Capacity:** 10 days × 1 developers × 0.6 velocity = 6 days  
 
 **Selected User Stories for Iteration 6:**
 
