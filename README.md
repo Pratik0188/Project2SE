@@ -383,8 +383,8 @@ This iteration emphasizes user interaction through comments, fostering community
   - **Estimate:** 3 days  
   - **Priority:** 20
  
--**Rate a Post**
-  - **Description:** As a user, I want to rate posts on the platform so that I can provide feedback on content I find helpful or interesting.
+- **Rate a Post**
+  - **Description:** A user can rate posts on the platform to provide feedback on content they find helpful or interesting.
   - **Estimate:** 5 days
   - **Priority:** 30
 
