@@ -216,9 +216,12 @@ The introduction of these community-focused features is expected to significantl
 ---
 
 ## Iteration 8: Core Shopping Functionality
-**Change Event:** We integrated essential e-commerce capabilities to meet user demands.
-
+**Duration:** 2 weeks (14 calendar days)  
+**Working Days:** 10  
 **Developers:** 1  
+**Velocity:** 0.6  
+**Total Capacity:** 10 days × 1 developer × 0.6 velocity = 6 days  
+**Change Event:** We integrated essential e-commerce capabilities to meet user demands.
 
 **Selected User Stories for Iteration 8:**
 
@@ -228,17 +231,24 @@ The introduction of these community-focused features is expected to significantl
 
 **Total Estimate:** 5 days  
 
-**Discussion of Changes:**  
-The focus on the "Purchase Clothing" user story is crucial for enabling the core business model of the platform. This decision supports transactional capabilities while fitting neatly within our available capacity.
+**Discussion of Plan:**  
+In this iteration, our primary focus is on implementing the **Purchase Clothing** feature, which is critical for establishing the e-commerce backbone of our platform. By integrating this functionality, we aim to provide users with a seamless shopping experience, allowing them to easily purchase items they discover within the community. This development is designed to meet growing user expectations for transactional capabilities and supports the overall business strategy of the platform.
 
-**Effect:** Implementing this feature likely drives user activity and sales, fulfilling a critical component of our business model.
+**Discussion of Changes:**  
+The selection of the **Purchase Clothing** user story aligns with our commitment to enhancing user engagement through core shopping functionalities. This feature not only addresses a significant user demand but also reinforces the platform's purpose as a social shopping environment. Given our current capacity, focusing on this essential feature allows us to deliver impactful functionality while ensuring a quality implementation.
+
+**Effect:**  
+Implementing the **Purchase Clothing** feature is expected to significantly drive user activity and sales on the platform. By enabling users to make purchases directly, we enhance the overall user experience and fulfill a vital component of our business model. This strategic move is likely to increase user retention, engagement, and ultimately contribute to revenue generation.
 
 ---
 
 ## Iteration 9: Enhancing User Engagement
-**Change Event:** We shifted priorities based on user feedback to focus on enhancing interaction.
-
+**Duration:** 2 weeks (14 calendar days)  
+**Working Days:** 10  
 **Developers:** 1  
+**Velocity:** 0.6  
+**Total Capacity:** 10 days × 1 developer × 0.6 velocity = 6 days  
+**Change Event:** We shifted priorities based on user feedback to focus on enhancing interaction.
 
 **Selected User Stories for Iteration 9:**
 
@@ -252,15 +262,25 @@ The focus on the "Purchase Clothing" user story is crucial for enabling the core
 
 **Total Estimate:** 6 days  
 
+**Discussion of Plan:**  
+In this iteration, we aim to enhance user engagement by implementing features that allow for greater personalization and sharing capabilities. The **Edit Profile Picture** feature enables users to express their identity visually, fostering a stronger connection to their profiles. Meanwhile, the **Share an Outfit** feature encourages users to showcase their style, facilitating interactions with others in the community. By focusing on these user stories, we aim to create a more dynamic platform that resonates with user interests and encourages participation.
+
 **Discussion of Changes:**  
-Fostering these social features can lead to increased user interaction and result in a more vibrant user community.
+The decision to prioritize these social features stems from direct user feedback, which highlighted the desire for more ways to personalize profiles and interact with others. By incorporating the ability to edit profile pictures and share outfits, we address users' needs for self-expression and community engagement. This strategic shift allows us to strengthen the social fabric of the platform, fostering a vibrant user community.
+
+**Effect:**  
+Implementing these features is expected to significantly boost user interaction and satisfaction. The ability to edit profile pictures enhances personal identity within the community, while sharing outfits promotes engagement and conversations among users. Overall, these enhancements will likely lead to increased retention and a more active user base, contributing positively to the platform's growth.
+
 
 ---
 
 ## Iteration 10: Streamlining User Experience
-**Change Event:** We integrated additional user-centric features based on previous feedback.
-
+**Duration:** 2 weeks (14 calendar days)  
+**Working Days:** 10  
 **Developers:** 1  
+**Velocity:** 0.6  
+**Total Capacity:** 10 days × 1 developer × 0.6 velocity = 6 days  
+**Change Event:** We integrated additional user-centric features based on previous feedback.
 
 **Selected User Stories for Iteration 10:**
 
@@ -274,19 +294,27 @@ Fostering these social features can lead to increased user interaction and resul
 
 **Total Estimate:** 6 days  
 
-**Discussion of Changes:**  
-The selection of these user stories focuses on improvements to user experience through enhanced social features. This iteration reinforces community building while effectively using our available capacity.
+**Discussion of Plan:**  
+In this iteration, our primary goal is to enhance the user experience by implementing features that promote personalization and social interaction. The **Add Clothing to Favorites** feature allows users to curate their preferred items, fostering a sense of ownership and connection to the platform. Additionally, the **Invite a Friend** feature encourages users to bring their friends into the community, further expanding our user base and strengthening existing relationships. By focusing on these user stories, we aim to create a more engaging and personalized environment that caters to user preferences.
 
-**Effect:** Increasing personalization options is expected to enhance user satisfaction, resulting in higher retention rates.
+**Discussion of Changes:**  
+The decision to prioritize these features reflects the growing demand for a more personalized experience and the desire for community engagement. User feedback indicated that features enhancing personal choices, such as favoriting clothing, would significantly improve satisfaction. Similarly, the ability to invite friends taps into users' social circles, creating a more vibrant community atmosphere. This strategic alignment with user expectations allows us to maximize our development capacity while reinforcing the social and interactive aspects of the platform.
+
+**Effect:**  
+By implementing these enhancements, we expect to see a noticeable increase in user satisfaction and engagement. The ability to add clothing to favorites provides a more tailored shopping experience, making users feel more connected to the platform. Meanwhile, the **Invite a Friend** feature is likely to drive growth by leveraging existing users' networks, resulting in higher retention rates and a more active community. Ultimately, these changes position us to create a more cohesive and enjoyable user experience.
 
 ---
 
 ## Iteration 11: Security Enhancements
+
+**Duration:** 2 weeks (14 calendar days)  
+**Working Days:** 10  
+**Developers:** 1  
+**Velocity:** 0.6  
+**Total Capacity:** 10 days × 1 developer × 0.6 velocity = 6 days  
 **Change Event:** We responded to user concerns regarding security and privacy settings.
 
-**Developers:** 1  
-
-**Selected User Stories for Iteration 12:**
+**Selected User Stories for Iteration 11:**
 
 - **Update Privacy Settings**  
   **Estimate:** 3 days  
@@ -298,19 +326,27 @@ The selection of these user stories focuses on improvements to user experience t
 
 **Total Estimate:** 5 days  
 
-**Discussion of Changes:**  
-This iteration focuses on critical security and shopping functionalities. Including privacy settings reflects user concerns while enhancing the overall user experience.
+**Discussion of Plan:**  
+In this iteration, our main focus is on enhancing the security features of our platform while also improving shopping functionalities. The **Update Privacy Settings** feature is designed to give users more control over their personal information, addressing growing concerns about data privacy in the digital age. Additionally, by implementing the **Add Items to Cart** functionality, we aim to streamline the shopping experience, making it easier for users to manage their selections and ultimately leading to increased sales.
 
-**Effect:** Addressing security concerns builds user trust, while improving shopping functionality supports conversion rates and user satisfaction.
+**Discussion of Changes:**  
+The selection of these user stories underscores our commitment to addressing user feedback and concerns. By prioritizing privacy settings, we are acknowledging the importance of user trust in maintaining a loyal user base. This change is crucial for ensuring that users feel secure in sharing their information on our platform. The inclusion of shopping functionality, like adding items to a cart, enhances the overall user experience by simplifying the purchasing process. These changes reflect a balanced approach, where user security and operational efficiency are both prioritized.
+
+**Effect:**  
+By addressing security concerns through improved privacy settings, we aim to foster greater user trust, which is vital for user retention and community growth. Additionally, enhancing the shopping experience with the **Add Items to Cart** feature is expected to lead to higher conversion rates, as users can more easily navigate their purchases. Overall, these enhancements are likely to contribute to increased user satisfaction and loyalty, as users feel safer and more empowered on our platform.
 
 ---
 
 ## Iteration 12: Social and Community Features
-**Change Event:** We expanded user engagement through social features.
-
+**Duration:** 2 weeks (14 calendar days)  
+**Working Days:** 10  
 **Developers:** 1  
+**Velocity:** 0.6  
+**Total Capacity:** 10 days × 1 developer × 0.6 velocity = 6 days  *
 
-**Selected User Stories for Iteration 13:**
+*Change Event:** We expanded user engagement through social features.
+
+**Selected User Stories for Iteration 12:**
 
 - **Post Comments on Items**  
   **Estimate:** 3 days  
@@ -318,10 +354,14 @@ This iteration focuses on critical security and shopping functionalities. Includ
 
 **Total Estimate:** 4 days  
 
-**Discussion of Changes:**  
-This iteration emphasizes user interaction through comments, fostering community engagement. This aligns well with user demands for increased interaction and content sharing.
+**Discussion of Plan:**  
+In this iteration, our goal is to enhance user engagement by introducing the **Post Comments on Items** feature. This functionality is designed to enable users to share their thoughts and opinions on individual clothing items, facilitating a dialogue among users. By allowing comments, we aim to create a more interactive and vibrant community where users can share styling tips, experiences, and feedback. This focus on social features aligns with our broader strategy of enhancing user involvement and fostering a sense of belonging within the platform.
 
-**Effect:** Enhancing social features likely promotes user interaction and satisfaction.
+**Discussion of Changes:**  
+The decision to prioritize the **Post Comments on Items** feature reflects our understanding of user desires for more interactive content. By enabling comments, we not only fulfill a user need for communication but also encourage a sense of community among users. This change addresses the demand for increased interaction, moving beyond mere consumption to active participation. The feature’s development will focus on creating a user-friendly interface that encourages open dialogue while ensuring that comments are moderated to maintain a positive environment.
+
+**Effect:**  
+Implementing the ability to post comments is expected to significantly enhance user interaction and satisfaction. As users engage with each other, they are more likely to return to the platform, thus increasing overall activity and loyalty. This feature also provides valuable feedback to the platform's team regarding user preferences and trends, which can inform future developments. Overall, enhancing social features is anticipated to cultivate a more engaged community, driving user retention and growth.
 
 ---
 
