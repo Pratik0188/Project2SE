@@ -67,7 +67,6 @@ We made a strategic pivot in this iteration to address pressing user concerns. T
 
 
 ## Iteration 3: Increased Complexity in a User Story
-
 **Duration:** 2 weeks (14 calendar days)  
 **Working Days:** 10  
 **Developers:** 2  
@@ -96,7 +95,6 @@ By concentrating our efforts on refining the **Rate a Post** feature, we have si
 ---
 
 ## Iteration 4: Impact of Developer Departure
-
 **Duration:** 2 weeks (14 calendar days)  
 **Working Days:** 10  
 **Developers:** 2  
