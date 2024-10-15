@@ -381,7 +381,12 @@ This iteration emphasizes user interaction through comments, fostering community
 - **Invite a Friend**  
   - **Description:** A user can invite friends to join the platform and share clothing styles.  
   - **Estimate:** 3 days  
-  - **Priority:** 20  
+  - **Priority:** 20
+ 
+-**Rate a Post**
+  - **Description:** As a user, I want to rate posts on the platform so that I can provide feedback on content I find helpful or interesting.
+  - **Estimate:** 5 days
+  - **Priority:** 30
 
 - **Update Privacy Settings**  
   - **Description:** A user will be able to adjust their privacy settings for better control over their data.  
