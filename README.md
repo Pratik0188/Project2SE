@@ -33,28 +33,42 @@ This iteration focuses on foundational functionalities essential for user engage
 
 ---
 
-## Iteration 2: Adjustment with New User Stories
+# Iteration 2: Adjustment with New User Stories
 
-**Change Event:** We introduced an emergency feature, **Send a Direct Message**, and a new feature, **Report Inappropriate Content**.
+**Duration:** 2 weeks (14 calendar days)  
+**Working Days:** 10  
+**Developers:** 2  
+**Velocity:** 0.6  
+**Total Capacity:** 10 days × 2 developers × 0.6 velocity = 12 days 
 
-**Developers:** 2
+## Selected User Stories for Iteration 2:
 
-**Selected User Stories for Iteration 2:**
+1. **Send a Direct Message (Emergency)**  
+   - **Estimate:** 5 days  
+   - **Priority:** 50  
 
-- **Send a Direct Message (Emergency)**  
-  **Estimate:** 5 days  
-  **Priority:** 50  
-
-- **Report Inappropriate Content (New Feature)**  
-  **Estimate:** 5 days  
-  **Priority:** 30  
+2. **Report Inappropriate Content (New Feature)**  
+   - **Estimate:** 5 days  
+   - **Priority:** 30  
 
 **Total Estimate:** 10 days  
 
-**Discussion of Changes:**  
-We shifted our focus to address urgent user needs with the introduction of these new stories. We prioritized the emergency feature to ensure that critical functionalities were implemented quickly. This adjustment maintained the overall project timeline and emphasized our responsiveness to user feedback.
+## Discussion of the Plan:  
+In this iteration, we aim to enhance user safety and engagement by introducing critical communication features. The selection of user stories was guided by recent user feedback indicating a need for direct communication and content moderation tools. By implementing **Send a Direct Message**, we empower users to reach out to one another quickly in emergency situations, fostering a sense of community and support. The **Report Inappropriate Content** feature addresses the need for a safer online environment, allowing users to flag any inappropriate behavior, thereby promoting a healthier community dynamic. This iteration aligns with our project goals of enhancing user experience while ensuring their safety.
 
-**Effect:** The addition of these features improved user trust and engagement, as users felt that we prioritized their needs.
+## Discussion of Changes:  
+We made a strategic pivot in this iteration to address pressing user concerns. The inclusion of **Send a Direct Message** was driven by feedback highlighting the importance of immediate communication options. Additionally, the **Report Inappropriate Content** feature was introduced to create a more secure platform where users feel comfortable engaging with the community. 
+
+These changes not only respond to user needs but also reflect our commitment to maintaining an adaptable development process that prioritizes user feedback and safety.
+
+## Effects of the Changes:  
+- **User Trust Enhancement**: By prioritizing features that enhance communication and safety, we bolster user trust. When users know they can easily report issues or reach out in emergencies, their confidence in the platform increases.
+  
+- **Increased Engagement**: Implementing these features is likely to lead to higher engagement levels as users feel more empowered to interact safely. They can share their experiences and concerns, which may foster a stronger community.
+
+- **Community Safety and Well-being**: The introduction of content reporting mechanisms contributes to a more positive user experience. Users are more inclined to participate in a platform that actively works to maintain safety and integrity, reducing the likelihood of harmful interactions.
+
+By addressing these critical areas, we anticipate not only meeting immediate user needs but also laying the groundwork for a more robust and engaged community moving forward.
 
 ---
 
