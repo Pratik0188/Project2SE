@@ -187,11 +187,14 @@ This single-focus approach deepens user connections and community aspects, poten
 ---
 
 ## Iteration 7: Expanding User Functionality
+**Duration:** 2 weeks (14 calendar days)  
+**Working Days:** 10  
+**Developers:** 1  
+**Velocity:** 0.6  
+**Total Capacity:** 10 days × 1 developer × 0.6 velocity = 6 days  
 
 **Change Event:** We re-evaluated and added new user stories based on user feedback.
-
-**Developers:** 1  
-
+ 
 **Selected User Stories for Iteration 7:**
 
 - **Join a Community**  
