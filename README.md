@@ -345,7 +345,7 @@ By addressing security concerns through improved privacy settings, we aim to fos
 **Velocity:** 0.6  
 **Total Capacity:** 10 days × 1 developer × 0.6 velocity = 6 days
 
-*Change Event:** We expanded user engagement through social features.
+**Change Event:** We expanded user engagement through social features.
 
 **Selected User Stories for Iteration 12:**
 
