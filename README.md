@@ -138,8 +138,6 @@ In conclusion, although the reduced capacity meant that we could not address add
 
 **Change Event:** We maintained our capacity at 6 days due to the continued reduced team size.
 
-**Developers:** 1  
-
 **Selected User Stories for Iteration 5:**
 
 - **Create a Group**  
@@ -345,7 +343,7 @@ By addressing security concerns through improved privacy settings, we aim to fos
 **Working Days:** 10  
 **Developers:** 1  
 **Velocity:** 0.6  
-**Total Capacity:** 10 days × 1 developer × 0.6 velocity = 6 days  *
+**Total Capacity:** 10 days × 1 developer × 0.6 velocity = 6 days
 
 *Change Event:** We expanded user engagement through social features.
 
