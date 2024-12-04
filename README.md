@@ -1,4 +1,4 @@
-# Project 2: Iteration Plan
+# Project : Iteration Plan
 
 **Name:** Pratik Pujara  
 **Email:** pp139@uakron.edu  
